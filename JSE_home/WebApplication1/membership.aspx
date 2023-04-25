@@ -1,5 +1,4 @@
-﻿<%@ Page Title="Contact" Language="C#" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="WebApplication1.Contact" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="membership.aspx.cs" Inherits="WebApplication1.membership" %>
 
 <!DOCTYPE HTML>
 <html lang="en-US">
