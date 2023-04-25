@@ -106,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="collateralManagement.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -125,6 +126,8 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="membership.aspx" />
     <Content Include="operationManagement.aspx" />
+    <Content Include="resources.aspx" />
+    <Content Include="riskManagement.aspx" />
     <Content Include="WebForm1.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -171,6 +174,13 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="collateralManagement.aspx.cs">
+      <DependentUpon>collateralManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="collateralManagement.aspx.designer.cs">
+      <DependentUpon>collateralManagement.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -196,6 +206,20 @@
       <DependentUpon>operationManagement.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="resources.aspx.cs">
+      <DependentUpon>resources.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="resources.aspx.designer.cs">
+      <DependentUpon>resources.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="riskManagement.aspx.cs">
+      <DependentUpon>riskManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="riskManagement.aspx.designer.cs">
+      <DependentUpon>riskManagement.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
