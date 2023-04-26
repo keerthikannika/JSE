@@ -207,7 +207,7 @@ img.emoji {
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;">All transactions are cleared through JSE Clear, which adheres to strict management standards and achieves transparent price discovery. JSE Clear’s risk management standards are in line with international requirements for central counterparties. The main function of JSE Clear is to reduce counterparty credit risk in the exchange- traded derivative market in South Africa.</p>
-<p style="text-align: justify;">Refer to <strong><a href="http://obdweb.co.za/JSEClear/risk-management/">Derivatives Risk Management</a></strong>.</p>
+<p style="text-align: justify;">Refer to <strong><a href="/riskManagement.aspx">Derivatives Risk Management</a></strong>.</p>
 </div>
 </div>
 </div>
