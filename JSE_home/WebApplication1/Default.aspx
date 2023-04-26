@@ -2283,7 +2283,7 @@
                                     </div>
                                 </div>
                                 <div class="w-separator size_small"></div>
-                                <div class="w-btn-wrapper align_none"><a class="w-btn us-btn-style_3" title="About Us" href="http://obdweb.co.za/JSEClear/about-us/"><span class="w-btn-label">READ MORE ABOUT US</span></a></div>
+                                <div class="w-btn-wrapper align_none"><a class="w-btn us-btn-style_3" title="About Us" href="/about.aspx"><span class="w-btn-label">READ MORE ABOUT US</span></a></div>
                             </div>
                         </div>
                     </div>
