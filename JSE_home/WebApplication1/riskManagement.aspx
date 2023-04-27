@@ -2505,7 +2505,7 @@
                                                     <div class="column">
                                                         <p style="text-align: justify;">JSE Clear Executive Management is responsible for ongoing risk management of the Derivatives Market, reporting to the JSE Clear CEO and acting under delegated authority from the JSE Clear Board. To ensure continuing stakeholder engagement, the Risk Management Team consults regularly with the JSE Clear Risk Advisory Committee, which is an independent advisory committee.</p>
                                                         <p style="text-align: justify;">All risk management policies and methodologies are taken to the JSE Clear Risk Committee for review. The JSE Clear Risk Committee and JSE Clear Board consist of representatives from the clearing members, independent experts and JSE and JSE Clear management. ​</p>
-                                                        <p style="text-align: justify;">Please refer to the <strong><a href="http://obdweb.co.za/JSEClear/resources/">Resources</a></strong> page for all pertinent risk documentation.</p>
+                                                        <p style="text-align: justify;">Please refer to the <strong><a href="/resources.aspx">Resources</a></strong> page for all pertinent risk documentation.</p>
                                                     </div>
                                                 </div>
                                             </div>
