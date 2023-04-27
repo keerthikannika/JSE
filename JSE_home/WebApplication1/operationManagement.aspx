@@ -268,7 +268,7 @@ One Exchange Square<br />
 Gwen Lane<br />
 Sandown<br />
 2196</p>
-</div></div></div></div></div></div></section><section class="l-section wpb_row height_auto color_footer-top"><div class="l-section-h i-cf"><div class="g-cols vc_row via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default"><div class="wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-separator size_small"></div><div class="wpb_text_column us_custom_053637e0 has_text_color"><div class="wpb_wrapper"><h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="http://obdweb.co.za/JSEClear/privacy-policy/">Privacy Policy</a>          <a href="http://obdweb.co.za/JSEClear/terms-and-conditions/">Terms and Conditions</a></h6>
+</div></div></div></div></div></div></section><section class="l-section wpb_row height_auto color_footer-top"><div class="l-section-h i-cf"><div class="g-cols vc_row via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default"><div class="wpb_column vc_column_container"><div class="vc_column-inner"><div class="w-separator size_small"></div><div class="wpb_text_column us_custom_053637e0 has_text_color"><div class="wpb_wrapper"><h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="/privacyPolicy.aspx">Privacy Policy</a>          <a href="/termsAndConditions.aspx">Terms and Conditions</a></h6>
 </div></div><div class="w-separator size_small"></div></div></div></div></div></section>
 	</footer>
 	<a class="w-toplink pos_right" href="#" title="Back to top" aria-label="Back to top"><span></span></a>	<button id="w-header-show" class="w-header-show" aria-label="Menu"><span>Menu</span></button>

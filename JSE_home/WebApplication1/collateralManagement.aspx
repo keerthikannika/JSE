@@ -2653,7 +2653,7 @@
                             <div class="w-separator size_small"></div>
                             <div class="wpb_text_column us_custom_053637e0 has_text_color">
                                 <div class="wpb_wrapper">
-                                    <h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="http://obdweb.co.za/JSEClear/privacy-policy/">Privacy Policy</a>          <a href="http://obdweb.co.za/JSEClear/terms-and-conditions/">Terms and Conditions</a></h6>
+                                    <h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="/privacyPolicy.aspx">Privacy Policy</a>          <a href="/termsAndConditions.aspx">Terms and Conditions</a></h6>
                                 </div>
                             </div>
                             <div class="w-separator size_small"></div>
