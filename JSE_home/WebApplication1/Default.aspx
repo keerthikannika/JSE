@@ -82,7 +82,6 @@
     </style>
     <style media="screen">
         html {
-            margin-top: 32px !important;
         }
 
         @media screen and ( max-width: 782px ) {
