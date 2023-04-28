@@ -2264,7 +2264,7 @@
             <div class="l-subheader-cell at_left">
               <div class="w-image ush_image_1 with_transparent">
                 <a
-                  href="http://obdweb.co.za/JSEClear"
+                  href="/Default.aspx"
                   aria-label="Link"
                   class="w-image-h"
                   ><img

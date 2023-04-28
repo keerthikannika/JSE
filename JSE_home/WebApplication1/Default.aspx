@@ -2195,7 +2195,7 @@
             <div class="l-subheader at_middle">
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left">
-                        <div class="w-image ush_image_1 with_transparent"><a href="http://obdweb.co.za/JSEClear" aria-label="Link" class="w-image-h">
+                        <div class="w-image ush_image_1 with_transparent"><a href="/Default.aspx" aria-label="Link" class="w-image-h">
                             <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a></div>
                     </div>
                     <div class="l-subheader-cell at_center"></div>
