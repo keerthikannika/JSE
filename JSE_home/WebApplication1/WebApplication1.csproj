@@ -106,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="accessToInfo.aspx" />
     <Content Include="collateralManagement.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -113,6 +114,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
+    <Content Include="disclaimer.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -124,6 +126,8 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="latestNews1.aspx" />
+    <Content Include="latestNews2.aspx" />
     <Content Include="membership.aspx" />
     <Content Include="operationManagement.aspx" />
     <Content Include="privacyPolicy.aspx" />
@@ -166,6 +170,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="accessToInfo.aspx.cs">
+      <DependentUpon>accessToInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="accessToInfo.aspx.designer.cs">
+      <DependentUpon>accessToInfo.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -189,8 +200,29 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Disclaimer.aspx.cs">
+      <DependentUpon>disclaimer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Disclaimer.aspx.designer.cs">
+      <DependentUpon>disclaimer.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="latestNews1.aspx.cs">
+      <DependentUpon>latestNews1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="latestNews1.aspx.designer.cs">
+      <DependentUpon>latestNews1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="latestNews2.aspx.cs">
+      <DependentUpon>latestNews2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="latestNews2.aspx.designer.cs">
+      <DependentUpon>latestNews2.aspx</DependentUpon>
     </Compile>
     <Compile Include="membership.aspx.cs">
       <DependentUpon>membership.aspx</DependentUpon>

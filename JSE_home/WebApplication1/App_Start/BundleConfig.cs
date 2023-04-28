@@ -33,6 +33,13 @@ namespace WebApplication1
             // ready for production, use the build tool at https://modernizr.com to pick only the tests you need
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                             "~/Scripts/modernizr-*"));
+
+            bundles.Add(new StyleBundle("~/Content/css").Include(
+                          "~/Content/bootstrap.css",
+                          "~/Content/ekimba.css",
+                          "~/Content/w3.css",
+                          "~/Content/font-awesome.min.css",
+                          "~/Content/site.css"));
         }
     }
 }

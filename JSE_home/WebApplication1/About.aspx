@@ -199,6 +199,7 @@
       type="text/xml+oembed"
       href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fabout-us%2F&#038;format=xml"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script>
         if (
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
@@ -2663,7 +2664,7 @@
                         <div class="w-grid-item-h">
                           <a
                             class="w-grid-item-anchor"
-                            href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/"
+                            href="/latestNews1.aspx"
                             rel="bookmark"
                             aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"
                           ></a>
@@ -2671,7 +2672,7 @@
                             class="w-post-elm post_image usg_post_image_1 stretched"
                           >
                             <a
-                              href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/"
+                              href="/latestNews1.aspx"
                               aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"
                               ><img
                                 width="1200"
@@ -2715,7 +2716,7 @@
                               class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"
                             >
                               <a
-                                href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/"
+                                href="/latestNews1.aspx"
                                 >WFEClear: The WFE’s Clearing and Derivatives
                                 Conference 2023</a
                               >
@@ -2730,7 +2731,7 @@
                         <div class="w-grid-item-h">
                           <a
                             class="w-grid-item-anchor"
-                            href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/"
+                            href="/latestNews2.aspx"
                             rel="bookmark"
                             aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"
                           ></a>
@@ -2738,7 +2739,7 @@
                             class="w-post-elm post_image usg_post_image_1 stretched"
                           >
                             <a
-                              href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/"
+                              href="/latestNews2.aspx"
                               aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"
                               ><img
                                 width="1200"
@@ -2782,7 +2783,7 @@
                               class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"
                             >
                               <a
-                                href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/"
+                                href="/latestNews2.aspx"
                                 >JSE Clear granted Independent Clearing House
                                 &#038; Central Counterparty licence</a
                               >
@@ -2950,7 +2951,7 @@
                 <div class="wpb_text_column us_custom_83a7a996">
                   <div class="wpb_wrapper">
                     <p>
-                      <a href="http://obdweb.co.za/JSEClear/disclaimer/"
+                      <a href="/disclaimer.aspx"
                         >Disclaimer</a
                       >
                     </p>
@@ -2961,7 +2962,7 @@
                   <div class="wpb_wrapper">
                     <p>
                       <a
-                        href="http://obdweb.co.za/JSEClear/access-to-information/"
+                        href="/accessToInfo.aspx"
                         >Access to Information</a
                       >
                     </p>
@@ -3432,9 +3433,4 @@
     ></script>
   </body>
 </html>
-            </p>
-        </div>
-    </div>
-
-</asp:Content>
-
+            

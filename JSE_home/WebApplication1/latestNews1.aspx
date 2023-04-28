@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="privacyPolicy.aspx.cs" Inherits="WebApplication1.privacyPolicy" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="latestNews1.aspx.cs" Inherits="WebApplication1.latestNews1" %>
 
 
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>Privacy Policy &#8211; JSE Clear</title>
+    <title>WFEClear: The WFE’s Clearing and Derivatives Conference 2023 &#8211; JSE Clear</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel="alternate" type="application/rss+xml" title="JSE Clear &raquo; Feed" href="http://obdweb.co.za/JSEClear/feed/" />
@@ -13,11 +13,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="theme-color" content="#f5f5f5">
-    <meta property="og:title" content="Privacy Policy &#8211; JSE Clear">
-    <meta property="og:url" content="http://obdweb.co.za/JSEClear/JSEClear/privacy-policy/">
+    <meta property="og:title" content="WFEClear: The WFE’s Clearing and Derivatives Conference 2023 &#8211; JSE Clear">
+    <meta property="og:url" content="http://obdweb.co.za/JSEClear/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="JSE Clear">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-1024x512.jpg" itemprop="image">
     <script>
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "http:\/\/obdweb.co.za\/JSEClear\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2" } };
         /*! This file is auto-generated */
@@ -37,38 +38,20 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='revslider-material-icons-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/fonts/material/material-icons.css?ver=6.5.31' media='all' />
-    <link rel='stylesheet' id='revslider-basics-css-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/admin/assets/css/basics.css?ver=6.5.31' media='all' />
-    <link rel='stylesheet' id='rs-color-picker-css-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/admin/assets/css/tp-color-picker.css?ver=6.5.31' media='all' />
-    <link rel='stylesheet' id='revbuilder-ddTP-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/admin/assets/css/ddTP.css?ver=6.5.31' media='all' />
-    <link rel='stylesheet' id='rs-roboto-css' href='//fonts.googleapis.com/css?family=Roboto&#038;ver=6.2' media='all' />
-    <link rel='stylesheet' id='tp-material-icons-css' href='//fonts.googleapis.com/icon?family=Material+Icons&#038;ver=6.2' media='all' />
-    <link rel='stylesheet' id='dashicons-css' href='http://obdweb.co.za/JSEClear/wp-includes/css/dashicons.min.css?ver=6.2' media='all' />
-    <link rel='stylesheet' id='admin-bar-css' href='http://obdweb.co.za/JSEClear/wp-includes/css/admin-bar.min.css?ver=6.2' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-css' href='http://obdweb.co.za/JSEClear/wp-includes/css/classic-themes.min.css?ver=6.2' media='all' />
-    <link rel='stylesheet' id='wordfenceAJAXcss-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/wordfence/css/wordfenceBox.1664898183.css?ver=7.7.1' media='all' />
     <link rel='stylesheet' id='us-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C700%2C300&#038;display=swap&#038;ver=6.2' media='all' />
     <link rel='stylesheet' id='us-style-css' href='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza/css/style.min.css?ver=8.10' media='all' />
     <link rel='stylesheet' id='theme-style-css' href='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza-child/style.css?ver=8.10' media='all' />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src='http://obdweb.co.za/JSEClear/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
-    <script id='wfi18njs-js-extra'>
-        var WordfenceI18nStrings = { "${totalIPs} addresses in this network": "${totalIPs} addresses in this network", "%s in POST body: %s": "%s in POST body: %s", "%s in cookie: %s": "%s in cookie: %s", "%s in file: %s": "%s in file: %s", "%s in query string: %s": "%s in query string: %s", "%s is not valid hostname": "%s is not valid hostname", ".htaccess Updated": ".htaccess Updated", ".htaccess change": ".htaccess change", "404 Not Found": "404 Not Found", "Activity Log Sent": "Activity Log Sent", "Add action to allowlist": "Add action to allowlist", "Add code to .htaccess": "Add code to .htaccess", "All Hits": "All Hits", "All capabilties of admin user %s were successfully revoked.": "All capabilties of admin user %s were successfully revoked.", "An error occurred": "An error occurred", "An error occurred when adding the request to the allowlist.": "An error occurred when adding the request to the allowlist.", "Are you sure you want to allowlist this action?": "Are you sure you want to allowlist this action?", "Authentication Code": "Authentication Code", "Background Request Blocked": "Background Request Blocked", "Block This Network": "Block This Network", "Blocked": "Blocked", "Blocked By Firewall": "Blocked By Firewall", "Blocked WAF": "Blocked WAF", "Blocked by Wordfence": "Blocked by Wordfence", "Blocked by Wordfence plugin settings": "Blocked by Wordfence plugin settings", "Blocked by the Wordfence Application Firewall and plugin settings": "Blocked by the Wordfence Application Firewall and plugin settings", "Blocked by the Wordfence Security Network": "Blocked by the Wordfence Security Network", "Blocked by the Wordfence Web Application Firewall": "Blocked by the Wordfence Web Application Firewall", "Bot": "Bot", "Cancel Changes": "Cancel Changes", "Cellphone Sign-In Recovery Codes": "Cellphone Sign-In Recovery Codes", "Cellphone Sign-in activated for user.": "Cellphone Sign-in activated for user.", "Click here to download a backup copy of this file now": "Click here to download a backup copy of this file now", "Click here to download a backup copy of your .htaccess file now": "Click here to download a backup copy of your .htaccess file now", "Click to fix .htaccess": "Click to fix .htaccess", "Close": "Close", "Crawlers": "Crawlers", "Diagnostic report has been sent successfully.": "Diagnostic report has been sent successfully.", "Directory Listing Disabled": "Directory Listing Disabled", "Directory listing has been disabled on your server.": "Directory listing has been disabled on your server.", "Disabled": "Disabled", "Dismiss": "Dismiss", "Don't ask again": "Don't ask again", "Download": "Download", "Download Backup File": "Download Backup File", "Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. When typing your password, enter \"wf\" followed by the entire code like \"mypassword wf1234 5678 90AB CDEF\". If your site shows a separate prompt for entering a code after entering only your username and password, enter only the code like \"1234 5678 90AB CDEF\". Your recovery codes are:": "Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. When typing your password, enter \"wf\" followed by the entire code like \"mypassword wf1234 5678 90AB CDEF\". If your site shows a separate prompt for entering a code after entering only your username and password, enter only the code like \"1234 5678 90AB CDEF\". Your recovery codes are:", "Email Diagnostic Report": "Email Diagnostic Report", "Email Wordfence Activity Log": "Email Wordfence Activity Log", "Enter a valid IP or domain": "Enter a valid IP or domain", "Enter the email address you would like to send the Wordfence activity log to. Note that the activity log may contain thousands of lines of data. This log is usually only sent to a member of the Wordfence support team. It also contains your PHP configuration from the phpinfo() function for diagnostic data.": "Enter the email address you would like to send the Wordfence activity log to. Note that the activity log may contain thousands of lines of data. This log is usually only sent to a member of the Wordfence support team. It also contains your PHP configuration from the phpinfo() function for diagnostic data.", "Error": "Error", "Error Enabling All Options Page": "Error Enabling All Options Page", "Error Restoring Defaults": "Error Restoring Defaults", "Error Saving Option": "Error Saving Option", "Error Saving Options": "Error Saving Options", "Failed Login": "Failed Login", "Failed Login: Invalid Username": "Failed Login: Invalid Username", "Failed Login: Valid Username": "Failed Login: Valid Username", "File hidden successfully": "File hidden successfully", "File restored OK": "File restored OK", "Filter Traffic": "Filter Traffic", "Firewall Response": "Firewall Response", "Full Path Disclosure": "Full Path Disclosure", "Google Bot": "Google Bot", "Google Crawlers": "Google Crawlers", "HTTP Response Code": "HTTP Response Code", "Human": "Human", "Humans": "Humans", "IP": "IP", "Key:": "Key:", "Last Updated: %s": "Last Updated: %s", "Learn more about repairing modified files.": "Learn more about repairing modified files.", "Loading...": "Loading...", "Locked Out": "Locked Out", "Locked out from logging in": "Locked out from logging in", "Logged In": "Logged In", "Logins": "Logins", "Logins and Logouts": "Logins and Logouts", "Look up IP or Domain": "Look up IP or Domain", "Manual block by administrator": "Manual block by administrator", "Next Update Check: %s": "Next Update Check: %s", "No activity to report yet. Please complete your first scan.": "No activity to report yet. Please complete your first scan.", "No issues have been ignored.": "No issues have been ignored.", "No new issues have been found.": "No new issues have been found.", "No rules were updated. Please verify you have permissions to write to the \/wp-content\/wflogs directory.": "No rules were updated. Please verify you have permissions to write to the \/wp-content\/wflogs directory.", "No rules were updated. Please verify your website can reach the Wordfence servers.": "No rules were updated. Please verify your website can reach the Wordfence servers.", "No rules were updated. Your website has reached the maximum number of rule update requests. Please try again later.": "No rules were updated. Your website has reached the maximum number of rule update requests. Please try again later.", "Note: Status will update when changes are saved": "Note: Status will update when changes are saved", "OK": "OK", "Pages Not Found": "Pages Not Found", "Paid Members Only": "Paid Members Only", "Please enter a valid IP address or domain name for your whois lookup.": "Please enter a valid IP address or domain name for your whois lookup.", "Please enter a valid email address.": "Please enter a valid email address.", "Please include your support ticket number or forum username.": "Please include your support ticket number or forum username.", "Please make a backup of this file before proceeding. If you need to restore this backup file, you can copy it to the following path from your site's root:": "Please make a backup of this file before proceeding. If you need to restore this backup file, you can copy it to the following path from your site's root:", "Please specify a reason": "Please specify a reason", "Please specify a valid IP address range in the form of \"1.2.3.4 - 1.2.3.5\" without quotes. Make sure the dash between the IP addresses in a normal dash (a minus sign on your keyboard) and not another character that looks like a dash.": "Please specify a valid IP address range in the form of \"1.2.3.4 - 1.2.3.5\" without quotes. Make sure the dash between the IP addresses in a normal dash (a minus sign on your keyboard) and not another character that looks like a dash.", "Please specify either an IP address range, Hostname or a web browser pattern to match.": "Please specify either an IP address range, Hostname or a web browser pattern to match.", "Recent Activity": "Recent Activity", "Recovery Codes": "Recovery Codes", "Redirected": "Redirected", "Redirected by Country Blocking bypass URL": "Redirected by Country Blocking bypass URL", "Referer": "Referer", "Registered Users": "Registered Users", "Restore Defaults": "Restore Defaults", "Rule Update Failed": "Rule Update Failed", "Rules Updated": "Rules Updated", "Save Changes": "Save Changes", "Scan Complete.": "Scan Complete.", "Scan the code below with your authenticator app to add this account. Some authenticator apps also allow you to type in the text version instead.": "Scan the code below with your authenticator app to add this account. Some authenticator apps also allow you to type in the text version instead.", "Security Event": "Security Event", "Send": "Send", "Sorry, but no data for that IP or domain was found.": "Sorry, but no data for that IP or domain was found.", "Specify a valid IP range": "Specify a valid IP range", "Specify a valid hostname": "Specify a valid hostname", "Specify an IP range, Hostname or Browser pattern": "Specify an IP range, Hostname or Browser pattern", "Success deleting file": "Success deleting file", "Success removing option": "Success removing option", "Success restoring file": "Success restoring file", "Success updating option": "Success updating option", "Successfully deleted admin": "Successfully deleted admin", "Successfully revoked admin": "Successfully revoked admin", "Test Email Sent": "Test Email Sent", "The 'How does Wordfence get IPs' option was successfully updated to the recommended value.": "The 'How does Wordfence get IPs' option was successfully updated to the recommended value.", "The Full Path disclosure issue has been fixed": "The Full Path disclosure issue has been fixed", "The admin user %s was successfully deleted.": "The admin user %s was successfully deleted.", "The file %s was successfully deleted.": "The file %s was successfully deleted.", "The file %s was successfully hidden from public view.": "The file %s was successfully hidden from public view.", "The file %s was successfully restored.": "The file %s was successfully restored.", "The option %s was successfully removed.": "The option %s was successfully removed.", "The request has been allowlisted. Please try it again.": "The request has been allowlisted. Please try it again.", "There was an error while sending the email.": "There was an error while sending the email.", "This will be shown only once. Keep these codes somewhere safe.": "This will be shown only once. Keep these codes somewhere safe.", "Throttled": "Throttled", "Two Factor Status": "Two Factor Status", "Type": "Type", "Type: %s": "Type: %s", "URL": "URL", "Unable to automatically hide file": "Unable to automatically hide file", "Use one of these %s codes to log in if you are unable to access your phone. Codes are 16 characters long, plus optional spaces. Each one may be used only once.": "Use one of these %s codes to log in if you are unable to access your phone. Codes are 16 characters long, plus optional spaces. Each one may be used only once.", "Use one of these %s codes to log in if you lose access to your authenticator device. Codes are 16 characters long, plus optional spaces. Each one may be used only once.": "Use one of these %s codes to log in if you lose access to your authenticator device. Codes are 16 characters long, plus optional spaces. Each one may be used only once.", "User Agent": "User Agent", "User ID": "User ID", "Username": "Username", "WHOIS LOOKUP": "WHOIS LOOKUP", "We are about to change your <em>.htaccess<\/em> file. Please make a backup of this file before proceeding.": "We are about to change your <em>.htaccess<\/em> file. Please make a backup of this file before proceeding.", "We can't modify your .htaccess file for you because: %s": "We can't modify your .htaccess file for you because: %s", "We encountered a problem": "We encountered a problem", "Wordfence Firewall blocked a background request to WordPress for the URL %s. If this occurred as a result of an intentional action, you may consider allowlisting the request to allow it in the future.": "Wordfence Firewall blocked a background request to WordPress for the URL %s. If this occurred as a result of an intentional action, you may consider allowlisting the request to allow it in the future.", "Wordfence is working...": "Wordfence is working...", "You are using Nginx as your web server. You'll need to disable autoindexing in your nginx.conf. See the <a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more info<\/a> on how to do this.": "You are using Nginx as your web server. You'll need to disable autoindexing in your nginx.conf. See the <a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more info<\/a> on how to do this.", "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually delete or hide those files.": "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually delete or hide those files.", "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually modify your php.ini to disable <em>display_error<\/em>": "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually modify your php.ini to disable <em>display_error<\/em>", "You forgot to include a reason you're blocking this IP range. We ask you to include this for your own record keeping.": "You forgot to include a reason you're blocking this IP range. We ask you to include this for your own record keeping.", "You have unsaved changes to your options. If you leave this page, those changes will be lost.": "You have unsaved changes to your options. If you leave this page, those changes will be lost.", "Your .htaccess has been updated successfully. Please verify your site is functioning normally.": "Your .htaccess has been updated successfully. Please verify your site is functioning normally.", "Your Wordfence activity log was sent to %s": "Your Wordfence activity log was sent to %s", "Your rules have been updated successfully.": "Your rules have been updated successfully.", "Your rules have been updated successfully. You are currently using the free version of Wordfence. Upgrade to Wordfence premium to have your rules updated automatically as new threats emerge. <a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">Click here to purchase a premium license<\/a>. <em>Note: Your rules will still update every 30 days as a free user.<\/em>": "Your rules have been updated successfully. You are currently using the free version of Wordfence. Upgrade to Wordfence premium to have your rules updated automatically as new threats emerge. <a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">Click here to purchase a premium license<\/a>. <em>Note: Your rules will still update every 30 days as a free user.<\/em>", "Your test email was sent to the requested email address. The result we received from the WordPress wp_mail() function was: %s<br \/><br \/>A 'True' result means WordPress thinks the mail was sent without errors. A 'False' result means that WordPress encountered an error sending your mail. Note that it's possible to get a 'True' response with an error elsewhere in your mail system that may cause emails to not be delivered.": "Your test email was sent to the requested email address. The result we received from the WordPress wp_mail() function was: %s<br \/><br \/>A 'True' result means WordPress thinks the mail was sent without errors. A 'False' result means that WordPress encountered an error sending your mail. Note that it's possible to get a 'True' response with an error elsewhere in your mail system that may cause emails to not be delivered.", "blocked by firewall": "blocked by firewall", "blocked by firewall for %s": "blocked by firewall for %s", "blocked by real-time IP blocklist": "blocked by real-time IP blocklist", "blocked by the Wordfence Security Network": "blocked by the Wordfence Security Network", "blocked for %s": "blocked for %s", "locked out from logging in": "locked out from logging in" };
-    </script>
-    <script src='http://obdweb.co.za/JSEClear/wp-content/plugins/wordfence/js/wfi18n.1664898183.js?ver=7.7.1' id='wfi18njs-js'></script>
-    <script id='wordfenceAJAXjs-js-extra'>
-        var WFAJAXWatcherVars = { "nonce": "099f0eda45" };
-    </script>
-    <script src='http://obdweb.co.za/JSEClear/wp-content/plugins/wordfence/js/admin.ajaxWatcher.1664898183.js?ver=7.7.1' id='wordfenceAJAXjs-js'></script>
     <link rel="https://api.w.org/" href="http://obdweb.co.za/JSEClear/wp-json/" />
-    <link rel="alternate" type="application/json" href="http://obdweb.co.za/JSEClear/wp-json/wp/v2/pages/34" />
+    <link rel="alternate" type="application/json" href="http://obdweb.co.za/JSEClear/wp-json/wp/v2/posts/88" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://obdweb.co.za/JSEClear/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://obdweb.co.za/JSEClear/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.2" />
-    <link rel="canonical" href="http://obdweb.co.za/JSEClear/privacy-policy/" />
-    <link rel='shortlink' href='http://obdweb.co.za/JSEClear/?p=34' />
-    <link rel="alternate" type="application/json+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fprivacy-policy%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fprivacy-policy%2F&#038;format=xml" />
+    <link rel="canonical" href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" />
+    <link rel='shortlink' href='http://obdweb.co.za/JSEClear/?p=88' />
+    <link rel="alternate" type="application/json+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fwfeclear-the-wfe-s-clearing-and-derivatives-conference-2023%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fwfeclear-the-wfe-s-clearing-and-derivatives-conference-2023%2F&#038;format=xml" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script>
         if (! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
             var root = document.getElementsByTagName('html')[0]
@@ -76,22 +59,6 @@
         }
     </script>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-    <style media="print">
-        #wpadminbar {
-            display: none;
-        }
-    </style>
-    <style media="screen">
-        html {
-            margin-top: 32px !important;
-        }
-
-        @media screen and ( max-width: 782px ) {
-            html {
-                margin-top: 46px !important;
-            }
-        }
-    </style>
     <meta name="generator" content="Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
     <link rel="icon" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/site-icon2-150x150.jpg" sizes="32x32" />
     <link rel="icon" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/site-icon2-300x300.jpg" sizes="192x192" />
@@ -2035,6 +2002,20 @@
         }
     </style>
     <style id="us-design-options-css">
+        .us_custom_2c4f4a12 {
+            padding: 20px !important
+        }
+
+        .us_custom_41fafe38 {
+            font-size: 11px !important;
+            font-weight: 700 !important;
+            text-transform: uppercase !important
+        }
+
+        .us_custom_83a7a996 {
+            font-size: 11px !important
+        }
+
         .us_custom_f73f4019 {
             font-size: 16px !important
         }
@@ -2042,10 +2023,6 @@
         .us_custom_c668fb7f {
             font-size: 13px !important;
             font-weight: 700 !important
-        }
-
-        .us_custom_83a7a996 {
-            font-size: 11px !important
         }
 
         .us_custom_3cc2ab96 {
@@ -2064,116 +2041,7 @@
         }
     </style>
 </head>
-<body class="page-template-default page page-id-34 logged-in admin-bar no-customize-support l-body Impreza_8.10 us-core_8.10.1 header_hor links_underline rounded_none headerinpos_top state_default wpb-js-composer js-comp-ver-6.9.0 vc_responsive" itemscope itemtype="https://schema.org/WebPage">
-    <style id="us-admin-bar-style">
-        .us-admin-bar {
-            margin-bottom: 6px !important;
-            white-space: nowrap;
-            max-width: 300px;
-            overflow: hidden
-        }
-
-            .us-admin-bar > .ab-item {
-                font-weight: 600 !important;
-                color: #fff !important
-            }
-
-            .us-admin-bar > * {
-                line-height: 24px !important;
-                height: 24px !important
-            }
-    </style>
-    <script>
-		(function () {
-               var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
-
-               request = true;
-
-               b[c] = b[c].replace(rcs, ' ');
-               // The customizer requires postMessage and CORS (if the site is cross domain).
-               b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
-           }());
-    </script>
-    <div id="wpadminbar" class="nojq nojs">
-        <div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
-            <ul id='wp-admin-bar-root-default' class="ab-top-menu">
-                <li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-wp-logo-default' class="ab-submenu">
-                        <li id='wp-admin-bar-about'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/about.php'>About WordPress</a></li>
-                    </ul>
-                    <ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu">
-                        <li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li>
-                        <li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li>
-                        <li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li>
-                        <li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/'>JSE Clear</a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-site-name-default' class="ab-submenu">
-                        <li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/'>Dashboard</a></li>
-                        <li id='wp-admin-bar-us_theme_otions'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/admin.php?page=us-theme-options'>Theme Options</a></li>
-                    </ul>
-                    <ul id='wp-admin-bar-appearance' class="ab-submenu">
-                        <li id='wp-admin-bar-themes'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/themes.php'>Themes</a></li>
-                        <li id='wp-admin-bar-widgets'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/widgets.php'>Widgets</a></li>
-                        <li id='wp-admin-bar-menus'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/nav-menus.php'>Menus</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/customize.php?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fprivacy-policy%2F'>Customize</a></li>
-                <li id='wp-admin-bar-updates'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">1 update available</span></a></li>
-                <li id='wp-admin-bar-comments'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li>
-                <li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-new-content-default' class="ab-submenu">
-                        <li id='wp-admin-bar-new-post'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php'>Post</a></li>
-                        <li id='wp-admin-bar-new-media'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/media-new.php'>Media</a></li>
-                        <li id='wp-admin-bar-new-page'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=page'>Page</a></li>
-                        <li id='wp-admin-bar-new-us_portfolio'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=us_portfolio'>Portfolio Page</a></li>
-                        <li id='wp-admin-bar-new-us_testimonial'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=us_testimonial'>Testimonial</a></li>
-                        <li id='wp-admin-bar-new-user'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/user-new.php'>User</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-edit' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/post.php?post=34&#038;action=edit'>Edit Page</a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-edit-default' class="ab-submenu">
-                        <li id='wp-admin-bar-us-header' class="us-admin-bar">
-                            <div class="ab-item ab-empty-item" onclick='return false'>Header</div>
-                            <a href="http://obdweb.co.za/JSEClear/wp-admin/post.php?post=12&action=edit">SITE HEADER</a></li>
-                        <li id='wp-admin-bar-us-footer' class="us-admin-bar">
-                            <div class="ab-item ab-empty-item" onclick='return false'>Footer</div>
-                            <a href="http://obdweb.co.za/JSEClear/wp-admin/post.php?post=15&action=edit">SITE FOOTER</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-edit_us_builder' class="us-builder"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post.php?post=34&#038;action=us-builder'>Edit Live</a><style>
-                                                                                                                                                                                                  .us-builder > a {
-                                                                                                                                                                                                      font-weight: 600 !important;
-                                                                                                                                                                                                      color: #23ccaa !important
-                                                                                                                                                                                                  }
-                                                                                                                                                                                              </style></li>
-                <li id='wp-admin-bar-revslider' class="revslider-menu"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/admin.php?page=revslider'><span class="rs-label">Slider Revolution</span></a></li>
-            </ul>
-            <ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu">
-                <li id='wp-admin-bar-search' class="admin-bar-search">
-                    <div class="ab-item ab-empty-item" tabindex="-1">
-                        <form action="http://obdweb.co.za/JSEClear/" method="get" id="adminbarsearch">
-                            <input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form>
-                    </div>
-                </li>
-                <li id='wp-admin-bar-my-account' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'>Howdy, <span class="display-name">obdadmin</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-user-actions' class="ab-submenu">
-                        <li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'><span class='display-name'>obdadmin</span></a></li>
-                        <li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'>Edit Profile</a></li>
-                        <li id='wp-admin-bar-logout'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-login.php?action=logout&#038;_wpnonce=555146b001'>Log Out</a></li>
-                    </ul>
-                </div>
-                </li>
-            </ul>
-        </div>
-        <a class="screen-reader-shortcut" href="http://obdweb.co.za/JSEClear/wp-login.php?action=logout&#038;_wpnonce=555146b001">Log Out</a>
-    </div>
-
+<body class="post-template-default single single-post postid-88 single-format-standard l-body Impreza_8.10 us-core_8.10.1 header_hor links_underline rounded_none headerinpos_top state_default wpb-js-composer js-comp-ver-6.9.0 vc_responsive" itemscope itemtype="https://schema.org/WebPage">
 
     <div class="l-canvas type_wide">
         <header id="page-header" class="l-header pos_fixed shadow_none bg_solid id_12" itemscope itemtype="https://schema.org/WPHeader">
@@ -2187,20 +2055,23 @@
             <div class="l-subheader at_middle">
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left">
-                        <div class="w-image ush_image_1 with_transparent"><a href="/Default.aspx" aria-label="Link" class="w-image-h">
-                            <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a></div>
+                        <div class="w-image ush_image_1 with_transparent">
+                            <a href="/Default.aspx" aria-label="Link" class="w-image-h">
+                                <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a>
+                        </div>
                     </div>
                     <div class="l-subheader-cell at_center"></div>
                     <div class="l-subheader-cell at_right">
-                        <nav class="w-nav type_desktop ush_menu_1 height_full dropdown_height m_align_none m_layout_dropdown" itemscope itemtype="https://schema.org/SiteNavigationElement"><a class="w-nav-control" aria-label="Menu" href="#">
-                            <div class="w-nav-icon">
-                                <div></div>
-                            </div>
-                        </a>
+                        <nav class="w-nav type_desktop ush_menu_1 height_full dropdown_height m_align_none m_layout_dropdown" itemscope itemtype="https://schema.org/SiteNavigationElement">
+                            <a class="w-nav-control" aria-label="Menu" href="#">
+                                <div class="w-nav-icon">
+                                    <div></div>
+                                </div>
+                            </a>
                             <ul class="w-nav-list level_1 hide_for_mobiles hover_simple">
-                                <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home w-nav-item level_1 menu-item-229"><a class="w-nav-anchor level_1" href="Default.aspx"><span class="w-nav-title">Services</span><span class="w-nav-arrow"></span></a></li>
+                                <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home w-nav-item level_1 menu-item-229"><a class="w-nav-anchor level_1" href="/Default.aspx"><span class="w-nav-title">Services</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-47"><a class="w-nav-anchor level_1" href="/membership.aspx"><span class="w-nav-title">Membership</span><span class="w-nav-arrow"></span></a></li>
-                                <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-48"><a class="w-nav-anchor level_1" href="operationManagement.aspx"><span class="w-nav-title">Operations Management</span><span class="w-nav-arrow"></span></a></li>
+                                <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-48"><a class="w-nav-anchor level_1" href="/operationManagement.aspx"><span class="w-nav-title">Operations Management</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-51"><a class="w-nav-anchor level_1" href="/riskManagement.aspx"><span class="w-nav-title">Risk Management</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-45"><a class="w-nav-anchor level_1" href="/collateralManagement.aspx"><span class="w-nav-title">Collateral Management</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-245"><a class="w-nav-anchor level_1" href="/resources.aspx"><span class="w-nav-title">Resources</span><span class="w-nav-arrow"></span></a></li>
@@ -2215,16 +2086,24 @@
             <div class="l-subheader for_hidden hidden"></div>
         </header>
         <main id="page-content" class="l-main" itemprop="mainContentOfPage">
-            <section class="l-section wpb_row height_medium color_primary with_img">
-                <div class="l-section-img" style="background-image: url(http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Privacy-Banner.jpg); background-size: auto;" data-img-width="1920" data-img-height="390"></div>
+            <section class="l-section wpb_row height_small with_img">
+                <div class="l-section-img" style="background-image: url(http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg); background-repeat: no-repeat; background-size: auto;" data-img-width="1200" data-img-height="600"></div>
                 <div class="l-section-h i-cf">
-                    <div class="g-cols vc_row via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_middle type_default stacking_default">
+                    <div class="g-cols vc_row via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default">
                         <div class="wpb_column vc_column_container">
                             <div class="vc_column-inner">
                                 <div class="w-separator size_medium"></div>
-                                <div class="wpb_text_column">
-                                    <div class="wpb_wrapper">
-                                        <h3><strong>Privacy Policy</strong></h3>
+                                <div class="g-cols wpb_row via_grid cols_2 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_middle type_default stacking_default">
+                                    <div class="wpb_column vc_column_container us_custom_2c4f4a12">
+                                        <div class="vc_column-overlay" style="background: rgba(255,255,255,0.80)"></div>
+                                        <div class="vc_column-inner">
+                                            <h2 class="w-post-elm post_title entry-title color_link_inherit">WFEClear: The WFE’s Clearing and Derivatives Conference 2023</h2>
+                                            <div class="w-post-elm post_taxonomy us_custom_41fafe38 style_simple color_link_inherit"><i class="fas fa-tag"></i><a class="term-1 term-news" href="http://obdweb.co.za/JSEClear/category/news/">News</a></div>
+                                            <time class="w-post-elm post_date us_custom_83a7a996 entry-date published" datetime="2022-11-23T11:25:38+00:00" itemprop="datePublished"><i class="fas fa-calendar-alt"></i>23 November, 2022</time>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner"></div>
                                     </div>
                                 </div>
                                 <div class="w-separator size_medium"></div>
@@ -2233,270 +2112,152 @@
                     </div>
                 </div>
             </section>
-            <section class="l-section wpb_row height_medium">
+            <section class="l-section wpb_row height_small">
                 <div class="l-section-h i-cf">
                     <div class="g-cols vc_row via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default">
                         <div class="wpb_column vc_column_container">
                             <div class="vc_column-inner">
                                 <div class="wpb_text_column">
                                     <div class="wpb_wrapper">
-                                        <p>THIS JSE LIMITED PRIVACY POLICY APPLIES TO HOW WE COLLECT, USE AND PROCESS YOUR INFORMATION.</p>
-                                        <p><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY.</strong></p>
-                                        <ol>
-                                            <li aria-level="1"><strong>INTRODUCTION AND SCOPE</strong>
-                                                <ol>
-                                                    <li aria-level="2">The JSE Limited (&#8220;JSE&#8221; or &#8220;we&#8221; or &#8220;us&#8221; or &#8220;our&#8221;) is a licensed exchange operating in the Republic of South Africa, with our head offices located in Sandton, Johannesburg.  The JSE is the responsible party (or controller, in some jurisdictions) of your Personal Information (as defined below).</li>
-                                                    <li aria-level="2">The JSE strives to ensure that our use of the Personal Information of data subjects (a person to whom Personal Information relates) is lawful, reasonable, and relevant to our business activities, with the ultimate goal of improving our offerings and your experience.</li>
-                                                    <li aria-level="2">We have appointed a Deputy Information Officer who is responsible for overseeing questions in relation to the Privacy Policy. You may contact our Deputy Information Officer at <a href="mailto:DataPrivacy@jse.co.za">DataPrivacy@jse.co.za</a> or the JSE Legal Counsel division at <a href="mailto:legal@jse.co.za">legal@jse.co.za</a> to discuss this Privacy Policy or your rights under data protection laws that are applicable to you.</li>
-                                                    <li aria-level="2">This Privacy Policy sets out how we will treat your Personal Information whether provided by you to us or collected by us through other means in your ordinary use of our services, which includes access to our website (“the Website&#8221;).  This Privacy Policy describes our approach and practices in respect of your Personal Information and our treatment thereof.</li>
-                                                    <li aria-level="2">This Privacy Policy must be read together with the Website terms and conditions and any other documents or agreements that describe the manner in which we, in specific circumstances, collect or process Personal Information about you.  This will enable you to understand the manner in which the JSE will process your Personal Information. This Privacy Policy supplements such other documents and agreements, but does not supersede them and in the event of a conflict, the terms of the particular document or agreement will prevail.</li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="2">
-                                            <li aria-level="1"><strong>THE PERSONAL INFORMATION THAT WE COLLECT ABOUT YOU</strong>
-                                                <ol>
-                                                    <li aria-level="2">The JSE may collect, acquire, receive, record, organise, collate, store, update, change, retrieve, read, process, analyse, use and share your Personal Information in the manner as set out in this Privacy Policy.  When we perform one or more of these actions, we are &#8220;Processing&#8221; your Personal Information.</li>
-                                                    <li aria-level="2">&#8220;Personal Information&#8221; refers to private information about an identifiable natural or juristic person.  Personal Information does not include information that does not identify a person (including in instances where that information has been anonymised).  The Personal Information that we collect about you may differ on the basis of the services that you receive from the JSE.</li>
-                                                    <li aria-level="2">We may process various types of Personal Information as follows:
-                                                        <ol>
-                                                            <li aria-level="3">Identity Information, which includes information concerning your name, username or similar identifier, marital status, title, date of birth, gender, race and legal status, as well as copies of your identity documents, photographs, identity number, registration number and your qualifications;</li>
-                                                            <li aria-level="3">Contact Information, which includes your billing addresses, delivery addresses, e-mail addresses and telephone numbers, as well as company secretarial information that has been disclosed in relation to you;</li>
-                                                            <li aria-level="3">Financial Information, which includes bank account and payment card details, insurance information, financial statements, VAT registration numbers, information shared with us by your JSE member (if applicable), regulatory filings, fund information and investor statements;</li>
-                                                            <li aria-level="3">Transaction Information, which includes details about payments made to or received from you, settlement instructions and company information, which may consist of financial activity, company information, trading exposure and regulatory disclosures;</li>
-                                                            <li aria-level="3">Technical Information, which includes your internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access the Website;</li>
-                                                            <li aria-level="3">Usage Information, which includes information as to your access to and use of the Website, products and services;</li>
-                                                            <li aria-level="3">Marketing and Communications Information, which includes your preferences in respect of receiving marketing information from us and our third parties, and your communication preferences.</li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2">The JSE may also process, collect, store and/or use aggregated data, which may include historical or statistical data (&#8220;Aggregated Data&#8221;) for any purpose.  Aggregated Data may be derived from your Personal Information but is not considered Personal Information, as this data does not directly or indirectly reveal your identity.  However, if we combine or connect Aggregated Data with your Personal Information in a manner that has the result that it can directly or indirectly identify you, we will treat the combined data as Personal Information, which will be managed in accordance with this Privacy Policy.</li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="3">
-                                            <li aria-level="1"><strong>HOW WE COLLECT YOUR PERSONAL INFORMATION</strong>
-                                                <ol>
-                                                    <li aria-level="2">We collect your Personal Information in three ways, namely:
-                                                        <ol>
-                                                            <li aria-level="3">through direct or active interactions with you;</li>
-                                                            <li aria-level="3">through automated or passive interactions with you; and</li>
-                                                            <li aria-level="3">from third parties, including third party service providers that we may appoint to, among other things, provide services to you</li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2">Direct or active collection from you
-                                                        <ol>
-                                                            <li aria-level="3">We may require that you submit certain information to enable you to access portions of the Website, to make use of our services, to facilitate the conclusion of an agreement with us, or that is necessary for our fulfilment of our statutory or regulatory obligations.  We also collect Personal Information directly from you when you communicate directly with us, for example via e-mail, telephone calls, feedback forms, site comments or forums.</li>
-                                                            <li aria-level="3">If you contact us, we reserve the right to retain a record of that correspondence, which may include Personal Information.</li>
-                                                            <li aria-level="3">The Personal Information that we actively collect from you may include any of the Personal Information listed in paragraph 2 of this Privacy Policy.</li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2">Passive collection from your Access Device
-                                                        <ol>
-                                                            <li aria-level="3">We may passively collect certain of your Personal Information from the devices that you use to access and navigate the Website or to make use of our services (each an &#8220;Access Device&#8221;), by way of various technological applications, for instance, using server logs to collect and maintain log information.</li>
-                                                            <li aria-level="3">The Personal Information that we passively collect from your Access Device may include your Identity Information, your Contact Information, your Technical Information, your Usage Information, your Marketing and Communications Information, or any other Personal Information which you permit us, from time to time, to passively collect from your Access Device.</li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2">Personal Information collected from third parties
-                                                        <ol>
-                                                            <li aria-level="3">The JSE receives Personal Information about you from various third parties and public sources, including:
-                                                                <ol>
-                                                                    <li aria-level="4">JSE members (including both trading and clearing members);</li>
-                                                                    <li aria-level="4">fund managers;</li>
-                                                                    <li aria-level="4">third parties who provide Personal Information to data controllers, and who in turn provide this Personal Information to the JSE;</li>
-                                                                    <li aria-level="4">sponsors, designated advisors, debt sponsors and venture capital advisors;</li>
-                                                                    <li aria-level="4">issuers listed on the JSE; and</li>
-                                                                    <li aria-level="4">our information technology suppliers.</li>
-                                                                </ol>
-                                                            </li>
-                                                        </ol>
-                                                    </li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="4">
-                                            <li aria-level="1"><strong>HOW WE USE YOUR PERSONAL INFORMATION</strong>
-                                                <ol>
-                                                    <li aria-level="2">We use the Personal Information we collect to maintain and improve the Website itself and to improve the experience of its users, to facilitate the provision of our services to you and to fulfil our statutory and regulatory obligations.</li>
-                                                    <li aria-level="2">We may also use your Personal Information to:
-                                                        <ol>
-                                                            <li aria-level="3">conduct trading and post-trade services;</li>
-                                                            <li aria-level="3">comply with our regulatory reporting obligations, including submissions to the Financial Sector Conduct Authority (“FSCA”) and/or the Prudential Authority (“PA”) and/or the South African Reserve Bank (the &#8220;SARB&#8221;);</li>
-                                                            <li aria-level="3">comply with our statutory obligations, including submissions to the Companies and Intellectual Property Commission (&#8220;CIPC&#8221;), as well as engaging with the regulatory authorities;</li>
-                                                            <li aria-level="3">interact with other market infrastructures;</li>
-                                                            <li aria-level="3">facilitate publication on the Stock Exchange News Services (&#8220;SENS&#8221;) and to enable users to access SENS announcements;</li>
-                                                            <li aria-level="3"><em>facilitate the provision of services to our customers, which may be provided by us or by third parties appointed by us, which includes, among other things, the virtual meeting production and attendance services provided by Digital Cabinet (Proprietary) Limited (&#8220;Digital Cabinet&#8221;);</em></li>
-                                                            <li aria-level="3"><em>enable users to access third party software platforms or applications in order to receive services provided by such third party service providers;</em></li>
-                                                            <li aria-level="3"><em>conduct the JSE&#8217;s recruitment and hiring processes, which includes the conducting of criminal record and credit checks, referrals, the capturing of a job applicant&#8217;s details and the providing of status updates to job applicants;</em></li>
-                                                            <li aria-level="3"><em>retain and make information available to you on the Website;</em></li>
-                                                            <li aria-level="3"><em>create your user account and allow use of the Website;</em></li>
-                                                            <li aria-level="3"><em>establish and verify your identity on the Website;</em></li>
-                                                            <li aria-level="3"><em>operate, administer, maintain, secure and develop the Website and the performance and functionality of the Website;</em></li>
-                                                            <li aria-level="3"><em>detect, prevent or manage actual or alleged fraud, security breaches or the abuse, misuse or unauthorised use of the Website and contraventions of this Privacy Policy or any of terms and conditions that apply to your use of the Website;</em></li>
-                                                            <li aria-level="3"><em>inform you about any changes to the Website, this Privacy Policy or other changes that are relevant to you;</em></li>
-                                                            <li aria-level="3"><em>to create user profiles and to analyse and compare how you and other users make use of the Website, including (without limitation) your habits, click-patterns, preferences, frequency and times of use, trends and demographic information;</em></li>
-                                                            <li aria-level="3"><em>provide you with marketing material that is relevant to you;</em></li>
-                                                            <li aria-level="3"><em>diagnose and deal with technical issues and customer support queries and other user queries; </em></li>
-                                                            <li aria-level="3"><em>protect our rights in any litigation that may involve you;</em></li>
-                                                            <li aria-level="3"><em>communicate with you and retain a record of our communications with you and your communications with us;</em></li>
-                                                            <li aria-level="3"><em>invite you to functions or events held at the JSE or facilitated by the JSE; </em></li>
-                                                            <li aria-level="3"><em>analyse and compare the types of Access Devices that you and other users make use of and your physical location; and</em></li>
-                                                            <li aria-level="3"><em>for other lawful purposes that are relevant to our business activities or regulatory functions.</em></li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2"><em>The JSE will restrict its processing of your Personal Information to the original purpose for which it was collected, unless the JSE reasonably considers that it is necessary to process it for another purpose that is compatible with the original purpose. </em></li>
-                                                    <li aria-level="2"><em>The JSE may, where permitted or required to do so by applicable legislation, process your Personal Information without your knowledge or consent, and will do so in accordance with the further provisions of this Privacy Policy.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="5">
-                                            <li aria-level="1"><strong>COMPULSORY PERSONAL INFORMATION AND CONSEQUENCES OF NOT SHARING WITH US</strong></li>
-                                        </ol>
-                                        <p style="padding-left: 40px;"><em>Where the JSE is required to process certain Personal Information by law, or in terms of a contract that we have with you, and you fail to provide such Personal Information when requested to do so, the JSE may be unable to perform in terms of the contract we have in place or are trying to enter into with you. In this case, the JSE may be required to terminate the contract and/or relationship, upon notification to you, which termination will be done in accordance with the terms of the contract and all applicable legislation.</em></p>
-                                        <ol start="6">
-                                            <li aria-level="1"><strong>SHARING OF YOUR PERSONAL INFORMATION</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>We will not intentionally disclose your Personal Information, whether for commercial gain or otherwise, other than with your permission or in the manner as set out in this Privacy Policy. </em></li>
-                                                    <li aria-level="2"><em>The JSE may share your Personal Information under the following circumstances:</em>
-                                                        <ol>
-                                                            <li aria-level="3"><em>with our agents, advisers, service providers and suppliers that have agreed to be bound by this Privacy Policy or similar terms, which offer the same level as protection as this Privacy Policy;</em></li>
-                                                            <li aria-level="3"><em>with our employees, suppliers, service providers and agents to the extent that they require such Personal Information in the provision of services for or to us, which include hosting, development and administration, technical support and other support services relating to the Website or the operation of the JSE business.  We will authorise any Personal Information processing done by a third party on our behalf, amongst other things by entering into written agreements with those third parties governing our relationship with them and containing confidentiality and non-disclosure provisions;</em></li>
-                                                            <li aria-level="3"><em>to enable us to enforce or apply any other contract between you and us;</em></li>
-                                                            <li aria-level="3"><em>to protect our rights, property or safety or that of our customers, employees, contractors, suppliers, service providers, agents, brokers and any other third party (including any entity listed on the JSE);</em></li>
-                                                            <li aria-level="3"><em>to mitigate any actual or reasonably perceived risk to us, our customers, employees, contractors, agents, brokers or any other third party (including any entity listed on the JSE);</em></li>
-                                                            <li aria-level="3"><em>with governmental agencies, exchanges and other regulatory or self-regulatory bodies, if required to do so by law or there is a reasonable belief that such is necessary for:</em>
-                                                                <ol>
-                                                                    <li aria-level="4"><em>compliance with the law or with any legal process;</em></li>
-                                                                    <li aria-level="4"><em>the protection and defence of the rights, property or safety of the JSE, or our customers, employees, contractors, suppliers, service providers, agents, brokers or any third party (including any entity listed on the JSE);</em></li>
-                                                                    <li aria-level="4"><em>the detection, prevention and management of actual or alleged fraud, security breaches, technical issues,  or the abuse, misuse or unauthorised use of the Website and contraventions of this Privacy Policy; and</em></li>
-                                                                    <li aria-level="4"><em>the protection of the rights, property or safety of members of the public (if you provide false or deceptive information or misrepresent yourself, we may proactively disclose such information to the appropriate regulatory bodies and/or commercial entities). </em><em></em></li>
-                                                                </ol>
-                                                            </li>
-                                                        </ol>
-                                                    </li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="7">
-                                            <li aria-level="1"><strong>STORAGE AND TRANSFER OF YOUR PERSONAL INFORMATION</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>We store your Personal Information on our servers or those of our service providers.</em></li>
-                                                    <li aria-level="2"><em>We reserve the right to transfer to and/or store your Personal Information on servers in a jurisdiction other than where it was collected, or outside of South Africa in a jurisdiction that may not have comparable data protection legislation.  </em></li>
-                                                    <li aria-level="2"><em>If the location to which Personal Information is transferred and/or is stored does not have substantially similar laws to those of South Africa, which provide for the protection of Personal Information, we will take reasonably practicable steps, including the imposition of appropriate contractual terms to ensure that your Personal Information is adequately protected in that jurisdiction.</em></li>
-                                                    <li aria-level="2"><em>Please contact us if you require further information as to the specific mechanisms used by us when transferring your Personal Information outside of South Africa or to a jurisdiction that is different to the one in which we collected your Personal Information.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="8">
-                                            <li aria-level="1"><strong>SECURITY</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>We take reasonable technical and organisational measures to secure the integrity of retained information and protect it from misuse, loss, alteration and destruction though the use of accepted technological standards that prevent unauthorised access to or disclosure of your Personal Information.  </em></li>
-                                                    <li aria-level="2"><em>We review our information collection, storage and processing practices, including physical security measures periodically, to ensure that we keep abreast of good practice.  </em></li>
-                                                    <li aria-level="2"><em>Despite the above measures being taken when Processing Personal Information, we do not guarantee that your Personal Information is 100% secure.  </em></li>
-                                                    <li aria-level="2"><em>The JSE has implemented procedures to address actual and suspected data breaches and undertakes to notify you and the relevant regulatory authorities of breaches in instances in which the JSE is legally required to do so and within the period in which such notification is necessary.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="9">
-                                            <li aria-level="1"><strong>RETENTION OF YOUR PERSONAL INFORMATION</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>We may retain and Process some or all of your Personal Information if and for as long as:</em>
-                                                        <ol>
-                                                            <li aria-level="3"><em>we are required or permitted by law or a contract with you to do so; </em></li>
-                                                            <li aria-level="3"><em>it is for lawful purposes that are related to our performance of our functions and activities; </em></li>
-                                                            <li aria-level="3"><em>we reasonably require it for evidentiary purposes; or </em></li>
-                                                            <li aria-level="3"><em>you agree to us retaining it for a specified further period.  </em></li>
-                                                        </ol>
-                                                    </li>
-                                                    <li aria-level="2"><em>To determine the appropriate retention period for Personal Information, the JSE will consider, among other things, the nature and sensitivity of the Personal Information, the potential risks or harm that may result from its unauthorised use or disclosure, the purposes for which we process it and whether those purposes may be achieved through other means.  The JSE will always comply with applicable legal, regulatory, tax, accounting or other requirements as they pertain to the retention of Personal Information.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="10">
-                                            <li aria-level="1"><strong>MAINTENANCE OF YOUR PERSONAL INFORMATION </strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>In accordance with applicable legislation and the rules of the JSE, the JSE will take all necessary steps to ensure that the persons responsible for the maintenance of your Personal Information do so in a manner that ensures that it is accurate, complete, not misleading and is up to date.  </em></li>
-                                                    <li aria-level="2"><em>It is your responsibility to advise the JSE or the persons responsible for the maintenance of your Personal Information should any of Personal Information we have about you is incorrect, incomplete, misleading or out of date, by notifying us at the contact details set out in clause 17.1below.  </em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="11">
-                                            <li aria-level="1"><strong>YOUR RIGHTS </strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>Data protection laws confer certain rights on you in respect of your Personal Information, which include the right to:</em>
-                                                        <ol>
-                                                            <li aria-level="3"><em>Request access to your Personal Information (commonly known as a “data subject access request”), thereby enabling you to receive a copy of the Personal Information retained about you.</em></li>
-                                                            <li aria-level="3"><em>Request the correction of your Personal Information, in order to ensure that any incomplete or inaccurate Personal Information is corrected.</em></li>
-                                                            <li aria-level="3"><em>Request erasure of your Personal Information, where there is no lawful basis for the retention or continued processing of it. </em></li>
-                                                            <li aria-level="3"><em>Object to the processing of your Personal Information for a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. </em></li>
-                                                            <li aria-level="3"><em>Request restriction of processing of your Personal Information. This enables you to ask the JSE to suspend the processing of your Personal Information in limited circumstances, which may differ by jurisdiction.</em></li>
-                                                            <li aria-level="3"><em>Withdraw consent previously given in respect of the processing of your Personal Information at any time which withdrawal of consent will not affect the lawfulness of any processing carried out prior to your notice of withdrawal.  Withdrawal of consent may limit the ability of the JSE or a third party to provide certain products or services to you, but will not affect the continued processing of your Personal Information in instances in which your consent is not required.</em><em> </em></li>
-                                                        </ol>
-                                                    </li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="12">
-                                            <li aria-level="1"><strong>CHANGES TO THIS PRIVACY POLICY</strong></li>
-                                        </ol>
-                                        <p style="padding-left: 40px;"><em>This Privacy Policy may be amended from time to time and we will take reasonably practicable steps to inform you when changes are made. Without limiting the manner in which we may inform you, it could be that such notification may be by way of e-mail (if you provide your e-mail address when you register to use the Website), a &#8220;pop-up&#8221; notification on the Website, or a notification when you access the Website. </em></p>
-                                        <ol start="13">
-                                            <li aria-level="1"><strong>CHILDREN</strong></li>
-                                        </ol>
-                                        <p style="padding-left: 40px;"><em>The Website and the JSE&#8217;s services are not targeted at children (a natural person under the age of 18 years) . We will not knowingly collect Personal Information in respect of children without express permission to do so from a competent person (any person who is legally competent to consent to any action or decision being taken in respect of any matter concerning a child). </em></p>
-                                        <ol start="14">
-                                            <li aria-level="1"><strong>DIRECT MARKETING</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>When you register to use the Website, you will be required to provide your consent to agree to receive marketing communication from us.  </em></li>
-                                                    <li aria-level="2"><em>You may refuse to accept, require us to discontinue, or pre-emptively block any approach or communication from us if that approach or communication is primarily for the purpose of direct marketing (“direct marketing communications”).  </em></li>
-                                                    <li aria-level="2"><em>You may opt out of receiving direct marketing communication from us at any time by requesting us (in the manner set out in the communication or by contacting us at the contact details set out in clause 17.1) to desist from providing any direct marketing communication to you.</em></li>
-                                                    <li aria-level="2"><em>If you have chosen to opt out, we may send you written confirmation of receipt of your opt out request (which may be in electronic form), and will thereafter not send any further direct marketing communication to you.  Please note that you may continue to receive communication from the JSE that is not marketing related, such as that which pertains to matters of a regulatory nature. </em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="15">
-                                            <li aria-level="1"><strong>THIRD PARTY SITES</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>This Privacy Policy does not apply to the websites of any other parties, or the applications, products or services, such websites advertise and which may be linked to the Website, or websites that link to or advertise the Website. The JSE is not responsible for the privacy practices of such third party websites.</em></li>
-                                                    <li aria-level="2"><em>We advise you to read the privacy policy of each third party website and determine whether you agree to the privacy practices and policies of such third party websites, as these third party websites may also be collecting or sharing your Personal Information.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="16">
-                                            <li aria-level="1"><strong>GOVERNING LAW</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>This Privacy Policy is governed by South African law.  </em></li>
-                                                    <li aria-level="2"><em>If any provision of this Privacy Policy is determined to be illegal, void or unenforceable due to applicable law or by order of a court of a competent jurisdiction, it shall be deemed to be deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced.</em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ol start="17">
-                                            <li aria-level="1"><strong>QUERIES AND CONTACT DETAILS OF THE JSE AND THE INFORMATION REGULATOR</strong>
-                                                <ol>
-                                                    <li aria-level="2"><em>Should you feel that your rights in respect of your Personal Information have been infringed, please address your concerns to the JSE Deputy Information Officer or the JSE Legal Division. </em></li>
-                                                </ol>
-                                            </li>
-                                        </ol>
-                                        <ul>
-                                            <li><em>JSE LIMITED </em></li>
-                                            <li><em>Registration Number: 2005/022939/06</em></li>
-                                            <li><em>One Exchange Square</em></li>
-                                            <li><em>2 Gwen Lane</em></li>
-                                            <li><em>Sandown, Sandton</em></li>
-                                            <li><em>2196</em></li>
-                                            <li><em>Republic of South Africa</em></li>
-                                            <li><em>Tel:  <a href="tel:+27 11 520 7000">+27 11 520 7000</a></em></li>
-                                            <li><em>e-mail: <a href="mailto:DataPrivacy@jse.co.za">DataPrivacy@jse.co.za</a>; <a href="mailto:legal@jse.co.za">legal@jse.co.za</a></em></li>
-                                        </ul>
-                                        <p><em><strong>If you feel that the attempts by the JSE to resolve the matter have been inadequate, you may lodge a complaint with the South African Information Regulator by accessing their website at <a href="https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.justice.gov.za%2Finforeg%2F&amp;data=04%7C01%7CTumiM%40jse.co.za%7C52fbf31945ae4098737908d9a02bf680%7Ccffa664075724f059c64cd88068c19d4%7C0%7C0%7C637716932960838062%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=G8CSFoAntD0TnJg8xLSuzmJhn%2FLoC%2Bv%2BuiNbmZQNd7E%3D&amp;reserved=0">www.justice.gov.za/inforeg</a>.  If you are located outside of South Africa, you may contact the appropriate regulator in your country of domicile. </strong></em><em><span lang="EN-US" xml:lang="EN-US"></span></em></p>
-                                        <ul>
-                                            <li><em>The Information Regulator of South Africa contact details are as follows:</em></li>
-                                            <li><em>JD House, 27 Stiemens Street, Braamfontein, Johannesburg, 2001.</em></li>
-                                            <li><em>P.O Box 31533, Braamfontein, Johannesburg, 2017</em></li>
-                                            <li><em>General enquiries: <a href="mailto:enquiries@inforegulator.org.za">enquiries@inforegulator.org.za</a></em></li>
-                                            <li><em>Complaints (complete POPIA/PAIA form 5):</em></li>
-                                            <li><em><a href="mailto:PAIAComplaints@inforegulator.org.za">PAIAComplaints@inforegulator.org.za</a>  &#8211; should your PAIA request be denied or there is no response from a public or private bodies for access to records you may use this email address to lodge a complaint. </em></li>
-                                            <li><em><a href="mailto:POPIAComplaints@inforegulator.org.za">POPIAComplaints@inforegulator.org.za</a>  – should you feel that your personal information has been violated, you may use this e-mail address to lodge a complaint. </em></li>
-                                        </ul>
+                                        <h3 class=" uk-margin uk-animation-slide-bottom"><strong>27 &#8211; 29 March 2023</strong><br />
+                                            <strong><span class="uk-display-block">Johannesburg, South Africa</span></strong></h3>
+                                    </div>
+                                </div>
+                                <div class="w-separator size_small"></div>
+                                <div class="g-cols wpb_row via_grid cols_2 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default">
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 style="text-align: justify;">About the WFE</h4>
+                                                    <p style="text-align: justify;">Established in 1961, the WFE is the global industry association for exchanges and clearing houses. Headquartered in London, it represents over 250 market infrastructure providers, including standalone CCPs that are not part of exchange groups. Of our members, 37% are in Asia-Pacific, 43% in EMEA and 20% in the Americas. WFE’s 57 member CCPs collectively ensure that risk takers post some $1 trillion (equivalent) of resources to back their positions, in the form of initial margin and default fund requirements. WFE exchanges are home to 59,400 listed companies, and the market capitalization of these entities is over $122.94 trillion; around $162.04 trillion (EOB) in trading annually passes through WFE members (at end 2021).</p>
+                                                    <p style="text-align: justify;">The WFE is the definitive source for exchange-traded statistics and publishes over 350 market data indicators. Its free statistics database stretches back more than 40 years and provides information and insight into developments on global exchanges. The WFE works with standard-setters, policy makers, regulators and government organisations around the world to support and promote the development of fair, transparent, stable and efficient markets. The WFE shares regulatory authorities’ goals of ensuring the safety and soundness of the global financial system.</p>
+                                                    <p style="text-align: justify;">With extensive experience of developing and enforcing high standards of conduct, the WFE and its members support an orderly, secure, fair and transparent environment for investors; for companies that raise capital; and for all who deal with financial risk. We seek outcomes that maximise the common good, consumer confidence and economic growth. And we engage with policy makers and regulators in an open, collaborative way, reflecting the central, public role that exchanges and CCPs play in a globally integrated financial system.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 style="text-align: justify;">About the Johannesburg Stock Exchange</h4>
+                                                    <p style="text-align: justify;">The Johannesburg Stock Exchange (JSE) has a well-established history operating as a market place for trading financial products. It is a pioneering, globally connected exchange group that enables inclusive economic growth through trusted, world class, socially responsible products and services for the investor of the future. It offers secure and efficient primary and secondary capital markets across a diverse range of securities, spanning equities, derivatives and debt markets. It prides itself as being the market of choice for local and international investors looking to gain exposure to leading capital markets on the African continent. The JSE is currently ranked in the Top 20 largest stock exchanges in the world by market capitalisation, and is the largest stock exchange in Africa, having been in operation for 135 years. As a leading global exchange, the JSE co-creates, unlocks value &amp; makes real connections happen. <a href="http://www.jse.co.za/">www.jse.co.za</a>.</p>
+                                                </div>
+                                            </div>
+                                            <div class="w-separator size_medium"></div>
+                                            <div class="w-image align_center">
+                                                <div class="w-image-h">
+                                                    <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="w-separator size_medium"></div>
+                                <div class="wpb_text_column">
+                                    <div class="wpb_wrapper">
+                                        <h3 class=" uk-margin uk-animation-slide-bottom" style="text-align: center;"><strong>Speakers</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="w-separator size_small"></div>
+                                <div class="g-cols wpb_row via_grid cols_4 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default" style="grid-gap: 40px;">
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="w-image align_center">
+                                                <div class="w-image-h">
+                                                    <img width="400" height="470" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Takeshi-2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Takeshi-2.jpg 400w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Takeshi-2-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                </div>
+                                            </div>
+                                            <div class="w-separator size_small"></div>
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 class="uk-modal-title"><strong>Takeshi Shirakami</strong></h4>
+                                                    <p class="uk-margin-remove-top" style="text-align: justify;"><span class="role">Deputy Head of the Secretariat of Committee on Payments and Market Infrastructures, </span><span class="organisation">Bank for International Settlements</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="w-image align_center">
+                                                <div class="w-image-h">
+                                                    <img width="400" height="470" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Summer.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Summer.jpg 400w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Summer-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                </div>
+                                            </div>
+                                            <div class="w-separator size_small"></div>
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 class="uk-modal-title"><strong>Summer Mersinger</strong></h4>
+                                                    <p class="uk-margin-remove-top" style="text-align: justify;"><span class="role">Commissioner, </span><span class="organisation">Commodity Futures Trading Commission (CFTC)</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="w-image align_center">
+                                                <div class="w-image-h">
+                                                    <img width="400" height="470" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/John.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/John.jpg 400w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/John-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                </div>
+                                            </div>
+                                            <div class="w-separator size_small"></div>
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 class="uk-modal-title"><strong>John McPartland</strong></h4>
+                                                    <p class="uk-margin-remove-top" style="text-align: justify;"><span class="role">Senior Advisor, </span><span class="organisation">Hidden Road Partners LP</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="w-image align_center">
+                                                <div class="w-image-h">
+                                                    <img width="400" height="470" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Froukelien.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Froukelien.jpg 400w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/Froukelien-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                </div>
+                                            </div>
+                                            <div class="w-separator size_small"></div>
+                                            <div class="wpb_text_column">
+                                                <div class="wpb_wrapper">
+                                                    <h4 class="uk-modal-title"><strong>Froukelien Wendt</strong></h4>
+                                                    <p class="uk-margin-remove-top" style="text-align: justify;"><span class="role">Independent Member of the CCP Supervisory Committee and Director for CCPs, </span><span class="organisation">The European Securities and Markets Authority (ESMA)</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="w-separator size_small with_line width_default thick_1 style_dashed color_border align_center">
+                                    <div class="w-separator-h"></div>
+                                </div>
+                                <div class="w-btn-wrapper align_center"><a class="w-btn us-btn-style_1" target="_blank" href="https://wfeclear.wfecm.com/" rel="noopener"><span class="w-btn-label">READ MORE ON WFECLEAR WEBSITE</span></a></div>
+                                <div class="w-separator size_small with_line width_default thick_1 style_dashed color_border align_center">
+                                    <div class="w-separator-h"></div>
+                                </div>
+                                <div class="g-cols wpb_row via_grid cols_2 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default">
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_text_column us_custom_83a7a996">
+                                                <div class="wpb_wrapper">
+                                                    <p>Share this article</p>
+                                                </div>
+                                            </div>
+                                            <div class="w-sharing type_simple align_none color_secondary">
+                                                <div class="w-sharing-list"><a class="w-sharing-item email" href="mailto:?subject=WFEClear: The WFE’s Clearing and Derivatives Conference 2023&amp;body=http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" title="Email this" aria-label="Email this"><i class="fas fa-envelope"></i></a><a class="w-sharing-item facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/&amp;quote=WFEClear: The WFE’s Clearing and Derivatives Conference 2023" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;facebook&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-facebook"></i></a><a class="w-sharing-item twitter" href="https://twitter.com/intent/tweet?text=WFEClear: The WFE’s Clearing and Derivatives Conference 2023&amp;url=http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" title="Tweet this" aria-label="Tweet this" onclick="window.open(this.href, &quot;twitter&quot;, &quot;toolbar=0,width=650,height=360&quot;); return false;"><i class="fab fa-twitter"></i></a><a class="w-sharing-item linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;linkedin&quot;, &quot;toolbar=no,width=550,height=550&quot;); return false;"><i class="fab fa-linkedin"></i></a><a class="w-sharing-item whatsapp" href="https://web.whatsapp.com/send?text=WFEClear: The WFE’s Clearing and Derivatives Conference 2023 http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;whatsapp&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-whatsapp"></i></a><a class="w-sharing-item telegram" href="https://t.me/share/url?url=http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/&amp;text=WFEClear: The WFE’s Clearing and Derivatives Conference 2023" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;telegram&quot;, &quot;toolbar=no,width=600,height=450&quot;); return false;"><i class="fab fa-telegram"></i></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="wpb_column vc_column_container">
+                                        <div class="vc_column-inner">
+                                            <div class="w-post-elm post_navigation layout_simple inv_false">
+                                                <a class="post_navigation-item order_first to_prev" href="/latestNews2.aspx" title="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
+                                                    <div class="post_navigation-item-arrow"></div>
+                                                    <div class="post_navigation-item-meta">Previous Article</div>
+                                                    <div class="post_navigation-item-title"><span>JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</span></div>
+                                                </a>
+                                                <div class="post_navigation-item order_second to_next"></div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2529,7 +2290,8 @@
                                     <div class="vc_column-inner">
                                         <div class="w-image align_none">
                                             <div class="w-image-h">
-                                                <img width="450" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png 450w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo-300x111.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></div>
+                                                <img width="450" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png 450w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo-300x111.png 300w" sizes="(max-width: 450px) 100vw, 450px" />
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -2661,7 +2423,7 @@
                             <div class="w-separator size_small"></div>
                             <div class="wpb_text_column us_custom_053637e0 has_text_color">
                                 <div class="wpb_wrapper">
-                                    <h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="/privacyPolicy.aspx">Privacy Policy</a>          <a href="/termsAndConditions.aspx">Terms and Conditions</a></h6>
+                                    <h6 style="text-align: center;">Copyright © 2023 JSE Clear          <a href="privacyPolicy.aspx">Privacy Policy</a>          <a href="/termsAndConditions.aspx">Terms and Conditions</a></h6>
                                 </div>
                             </div>
                             <div class="w-separator size_small"></div>
@@ -2675,118 +2437,46 @@
     <button id="w-header-show" class="w-header-show" aria-label="Menu"><span>Menu</span></button>
     <div class="w-header-overlay"></div>
     <script>
-		// Store some global theme options used in JS
-           if (window.$us === undefined) {
-               window.$us = {};
-           }
-           $us.canvasOptions = ($us.canvasOptions || {});
-           $us.canvasOptions.disableEffectsWidth = 900;
-           $us.canvasOptions.columnsStackingWidth = 600;
-           $us.canvasOptions.backToTopDisplay = 100;
-           $us.canvasOptions.scrollDuration = 1000;
+        // Store some global theme options used in JS
+        if (window.$us === undefined) {
+            window.$us = {};
+        }
+        $us.canvasOptions = ($us.canvasOptions || {});
+        $us.canvasOptions.disableEffectsWidth = 900;
+        $us.canvasOptions.columnsStackingWidth = 600;
+        $us.canvasOptions.backToTopDisplay = 100;
+        $us.canvasOptions.scrollDuration = 1000;
 
-           $us.langOptions = ($us.langOptions || {});
-           $us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
-           $us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
-           $us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
-           $us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
+        $us.langOptions = ($us.langOptions || {});
+        $us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
+        $us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
+        $us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
+        $us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
 
-           $us.navOptions = ($us.navOptions || {});
-           $us.navOptions.mobileWidth = 900;
-           $us.navOptions.togglable = true;
-           $us.ajaxLoadJs = true;
-           $us.templateDirectoryUri = 'http://obdweb.co.za/JSEClear/wp-content/themes/Impreza';
+        $us.navOptions = ($us.navOptions || {});
+        $us.navOptions.mobileWidth = 900;
+        $us.navOptions.togglable = true;
+        $us.ajaxLoadJs = true;
+        $us.templateDirectoryUri = 'http://obdweb.co.za/JSEClear/wp-content/themes/Impreza';
     </script>
     <script>if (window.$us === undefined) window.$us = {}; $us.headerSettings = { "default": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "100px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "none", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "laptops": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "1280px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "tablets": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "1024px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "mobiles": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "600px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "header_id": "12" };</script>
     <script>
-			window.RS_MODULES = window.RS_MODULES || {};
-           window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-           window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-           window.RS_MODULES.defered = true;
-           window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-           window.RS_MODULES.type = 'compiled';
+        window.RS_MODULES = window.RS_MODULES || {};
+        window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+        window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+        window.RS_MODULES.defered = true;
+        window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+        window.RS_MODULES.type = 'compiled';
     </script>
     <link rel='stylesheet' id='rs-plugin-settings-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.31' media='all' />
     <style id='rs-plugin-settings-inline-css'>
         #rs-demo-id {
         }
     </style>
-    <script src='http://obdweb.co.za/JSEClear/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
-    <script src='http://obdweb.co.za/JSEClear/wp-includes/js/admin-bar.min.js?ver=6.2' id='admin-bar-js'></script>
+    <script src='http://obdweb.co.za/JSEClear/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
     <script src='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18' defer async id='tp-tools-js'></script>
     <script src='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.31' defer async id='revmin-js'></script>
     <script src='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza/js/us.core.min.js?ver=8.10' id='us-core-js'></script>
-    <script>
-			function rs_adminBarToolBarTopFunction() {
-               if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
-                   var aliases = new Array();
-                   jQuery('rs-module-wrap').each(function () {
-                       aliases.push(jQuery(this).data('alias'));
-                   });
-
-                   if (aliases.length > 0) {
-                       jQuery('#wp-admin-bar-revslider-default li').each(function () {
-                           var li = jQuery(this),
-                               t = li.find('.ab-item .rs-label').data('alias'); //text()
-                           t = t !== undefined && t !== null ? t.trim() : t;
-                           if (jQuery.inArray(t, aliases) != -1) {
-                           } else {
-                               li.remove();
-                           }
-                       });
-                   }
-               } else {
-                   jQuery('#wp-admin-bar-revslider').remove();
-               }
-           }
-           var adminBarLoaded_once = false
-           if (document.readyState === "loading")
-               document.addEventListener('readystatechange', function () {
-                   if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
-                       adminBarLoaded_once = true;
-                       rs_adminBarToolBarTopFunction()
-                   }
-               });
-           else {
-               adminBarLoaded_once = true;
-               rs_adminBarToolBarTopFunction();
-           }
-    </script>
-    <script>
-			function rs_adminBarToolBarTopFunction() {
-               if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
-                   var aliases = new Array();
-                   jQuery('rs-module-wrap').each(function () {
-                       aliases.push(jQuery(this).data('alias'));
-                   });
-
-                   if (aliases.length > 0) {
-                       jQuery('#wp-admin-bar-revslider-default li').each(function () {
-                           var li = jQuery(this),
-                               t = li.find('.ab-item .rs-label').data('alias'); //text()
-                           t = t !== undefined && t !== null ? t.trim() : t;
-                           if (jQuery.inArray(t, aliases) != -1) {
-                           } else {
-                               li.remove();
-                           }
-                       });
-                   }
-               } else {
-                   jQuery('#wp-admin-bar-revslider').remove();
-               }
-           }
-           var adminBarLoaded_once = false
-           if (document.readyState === "loading")
-               document.addEventListener('readystatechange', function () {
-                   if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
-                       adminBarLoaded_once = true;
-                       rs_adminBarToolBarTopFunction()
-                   }
-               });
-           else {
-               adminBarLoaded_once = true;
-               rs_adminBarToolBarTopFunction();
-           }
-    </script>
 </body>
 </html>
+

@@ -50,6 +50,7 @@
     <link rel='stylesheet' id='us-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C700%2C300&#038;display=swap&#038;ver=6.2' media='all' />
     <link rel='stylesheet' id='us-style-css' href='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza/css/style.min.css?ver=8.10' media='all' />
     <link rel='stylesheet' id='theme-style-css' href='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza-child/style.css?ver=8.10' media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src='http://obdweb.co.za/JSEClear/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
     <script id='wfi18njs-js-extra'>
         var WordfenceI18nStrings = { "${totalIPs} addresses in this network": "${totalIPs} addresses in this network", "%s in POST body: %s": "%s in POST body: %s", "%s in cookie: %s": "%s in cookie: %s", "%s in file: %s": "%s in file: %s", "%s in query string: %s": "%s in query string: %s", "%s is not valid hostname": "%s is not valid hostname", ".htaccess Updated": ".htaccess Updated", ".htaccess change": ".htaccess change", "404 Not Found": "404 Not Found", "Activity Log Sent": "Activity Log Sent", "Add action to allowlist": "Add action to allowlist", "Add code to .htaccess": "Add code to .htaccess", "All Hits": "All Hits", "All capabilties of admin user %s were successfully revoked.": "All capabilties of admin user %s were successfully revoked.", "An error occurred": "An error occurred", "An error occurred when adding the request to the allowlist.": "An error occurred when adding the request to the allowlist.", "Are you sure you want to allowlist this action?": "Are you sure you want to allowlist this action?", "Authentication Code": "Authentication Code", "Background Request Blocked": "Background Request Blocked", "Block This Network": "Block This Network", "Blocked": "Blocked", "Blocked By Firewall": "Blocked By Firewall", "Blocked WAF": "Blocked WAF", "Blocked by Wordfence": "Blocked by Wordfence", "Blocked by Wordfence plugin settings": "Blocked by Wordfence plugin settings", "Blocked by the Wordfence Application Firewall and plugin settings": "Blocked by the Wordfence Application Firewall and plugin settings", "Blocked by the Wordfence Security Network": "Blocked by the Wordfence Security Network", "Blocked by the Wordfence Web Application Firewall": "Blocked by the Wordfence Web Application Firewall", "Bot": "Bot", "Cancel Changes": "Cancel Changes", "Cellphone Sign-In Recovery Codes": "Cellphone Sign-In Recovery Codes", "Cellphone Sign-in activated for user.": "Cellphone Sign-in activated for user.", "Click here to download a backup copy of this file now": "Click here to download a backup copy of this file now", "Click here to download a backup copy of your .htaccess file now": "Click here to download a backup copy of your .htaccess file now", "Click to fix .htaccess": "Click to fix .htaccess", "Close": "Close", "Crawlers": "Crawlers", "Diagnostic report has been sent successfully.": "Diagnostic report has been sent successfully.", "Directory Listing Disabled": "Directory Listing Disabled", "Directory listing has been disabled on your server.": "Directory listing has been disabled on your server.", "Disabled": "Disabled", "Dismiss": "Dismiss", "Don't ask again": "Don't ask again", "Download": "Download", "Download Backup File": "Download Backup File", "Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. When typing your password, enter \"wf\" followed by the entire code like \"mypassword wf1234 5678 90AB CDEF\". If your site shows a separate prompt for entering a code after entering only your username and password, enter only the code like \"1234 5678 90AB CDEF\". Your recovery codes are:": "Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. When typing your password, enter \"wf\" followed by the entire code like \"mypassword wf1234 5678 90AB CDEF\". If your site shows a separate prompt for entering a code after entering only your username and password, enter only the code like \"1234 5678 90AB CDEF\". Your recovery codes are:", "Email Diagnostic Report": "Email Diagnostic Report", "Email Wordfence Activity Log": "Email Wordfence Activity Log", "Enter a valid IP or domain": "Enter a valid IP or domain", "Enter the email address you would like to send the Wordfence activity log to. Note that the activity log may contain thousands of lines of data. This log is usually only sent to a member of the Wordfence support team. It also contains your PHP configuration from the phpinfo() function for diagnostic data.": "Enter the email address you would like to send the Wordfence activity log to. Note that the activity log may contain thousands of lines of data. This log is usually only sent to a member of the Wordfence support team. It also contains your PHP configuration from the phpinfo() function for diagnostic data.", "Error": "Error", "Error Enabling All Options Page": "Error Enabling All Options Page", "Error Restoring Defaults": "Error Restoring Defaults", "Error Saving Option": "Error Saving Option", "Error Saving Options": "Error Saving Options", "Failed Login": "Failed Login", "Failed Login: Invalid Username": "Failed Login: Invalid Username", "Failed Login: Valid Username": "Failed Login: Valid Username", "File hidden successfully": "File hidden successfully", "File restored OK": "File restored OK", "Filter Traffic": "Filter Traffic", "Firewall Response": "Firewall Response", "Full Path Disclosure": "Full Path Disclosure", "Google Bot": "Google Bot", "Google Crawlers": "Google Crawlers", "HTTP Response Code": "HTTP Response Code", "Human": "Human", "Humans": "Humans", "IP": "IP", "Key:": "Key:", "Last Updated: %s": "Last Updated: %s", "Learn more about repairing modified files.": "Learn more about repairing modified files.", "Loading...": "Loading...", "Locked Out": "Locked Out", "Locked out from logging in": "Locked out from logging in", "Logged In": "Logged In", "Logins": "Logins", "Logins and Logouts": "Logins and Logouts", "Look up IP or Domain": "Look up IP or Domain", "Manual block by administrator": "Manual block by administrator", "Next Update Check: %s": "Next Update Check: %s", "No activity to report yet. Please complete your first scan.": "No activity to report yet. Please complete your first scan.", "No issues have been ignored.": "No issues have been ignored.", "No new issues have been found.": "No new issues have been found.", "No rules were updated. Please verify you have permissions to write to the \/wp-content\/wflogs directory.": "No rules were updated. Please verify you have permissions to write to the \/wp-content\/wflogs directory.", "No rules were updated. Please verify your website can reach the Wordfence servers.": "No rules were updated. Please verify your website can reach the Wordfence servers.", "No rules were updated. Your website has reached the maximum number of rule update requests. Please try again later.": "No rules were updated. Your website has reached the maximum number of rule update requests. Please try again later.", "Note: Status will update when changes are saved": "Note: Status will update when changes are saved", "OK": "OK", "Pages Not Found": "Pages Not Found", "Paid Members Only": "Paid Members Only", "Please enter a valid IP address or domain name for your whois lookup.": "Please enter a valid IP address or domain name for your whois lookup.", "Please enter a valid email address.": "Please enter a valid email address.", "Please include your support ticket number or forum username.": "Please include your support ticket number or forum username.", "Please make a backup of this file before proceeding. If you need to restore this backup file, you can copy it to the following path from your site's root:": "Please make a backup of this file before proceeding. If you need to restore this backup file, you can copy it to the following path from your site's root:", "Please specify a reason": "Please specify a reason", "Please specify a valid IP address range in the form of \"1.2.3.4 - 1.2.3.5\" without quotes. Make sure the dash between the IP addresses in a normal dash (a minus sign on your keyboard) and not another character that looks like a dash.": "Please specify a valid IP address range in the form of \"1.2.3.4 - 1.2.3.5\" without quotes. Make sure the dash between the IP addresses in a normal dash (a minus sign on your keyboard) and not another character that looks like a dash.", "Please specify either an IP address range, Hostname or a web browser pattern to match.": "Please specify either an IP address range, Hostname or a web browser pattern to match.", "Recent Activity": "Recent Activity", "Recovery Codes": "Recovery Codes", "Redirected": "Redirected", "Redirected by Country Blocking bypass URL": "Redirected by Country Blocking bypass URL", "Referer": "Referer", "Registered Users": "Registered Users", "Restore Defaults": "Restore Defaults", "Rule Update Failed": "Rule Update Failed", "Rules Updated": "Rules Updated", "Save Changes": "Save Changes", "Scan Complete.": "Scan Complete.", "Scan the code below with your authenticator app to add this account. Some authenticator apps also allow you to type in the text version instead.": "Scan the code below with your authenticator app to add this account. Some authenticator apps also allow you to type in the text version instead.", "Security Event": "Security Event", "Send": "Send", "Sorry, but no data for that IP or domain was found.": "Sorry, but no data for that IP or domain was found.", "Specify a valid IP range": "Specify a valid IP range", "Specify a valid hostname": "Specify a valid hostname", "Specify an IP range, Hostname or Browser pattern": "Specify an IP range, Hostname or Browser pattern", "Success deleting file": "Success deleting file", "Success removing option": "Success removing option", "Success restoring file": "Success restoring file", "Success updating option": "Success updating option", "Successfully deleted admin": "Successfully deleted admin", "Successfully revoked admin": "Successfully revoked admin", "Test Email Sent": "Test Email Sent", "The 'How does Wordfence get IPs' option was successfully updated to the recommended value.": "The 'How does Wordfence get IPs' option was successfully updated to the recommended value.", "The Full Path disclosure issue has been fixed": "The Full Path disclosure issue has been fixed", "The admin user %s was successfully deleted.": "The admin user %s was successfully deleted.", "The file %s was successfully deleted.": "The file %s was successfully deleted.", "The file %s was successfully hidden from public view.": "The file %s was successfully hidden from public view.", "The file %s was successfully restored.": "The file %s was successfully restored.", "The option %s was successfully removed.": "The option %s was successfully removed.", "The request has been allowlisted. Please try it again.": "The request has been allowlisted. Please try it again.", "There was an error while sending the email.": "There was an error while sending the email.", "This will be shown only once. Keep these codes somewhere safe.": "This will be shown only once. Keep these codes somewhere safe.", "Throttled": "Throttled", "Two Factor Status": "Two Factor Status", "Type": "Type", "Type: %s": "Type: %s", "URL": "URL", "Unable to automatically hide file": "Unable to automatically hide file", "Use one of these %s codes to log in if you are unable to access your phone. Codes are 16 characters long, plus optional spaces. Each one may be used only once.": "Use one of these %s codes to log in if you are unable to access your phone. Codes are 16 characters long, plus optional spaces. Each one may be used only once.", "Use one of these %s codes to log in if you lose access to your authenticator device. Codes are 16 characters long, plus optional spaces. Each one may be used only once.": "Use one of these %s codes to log in if you lose access to your authenticator device. Codes are 16 characters long, plus optional spaces. Each one may be used only once.", "User Agent": "User Agent", "User ID": "User ID", "Username": "Username", "WHOIS LOOKUP": "WHOIS LOOKUP", "We are about to change your <em>.htaccess<\/em> file. Please make a backup of this file before proceeding.": "We are about to change your <em>.htaccess<\/em> file. Please make a backup of this file before proceeding.", "We can't modify your .htaccess file for you because: %s": "We can't modify your .htaccess file for you because: %s", "We encountered a problem": "We encountered a problem", "Wordfence Firewall blocked a background request to WordPress for the URL %s. If this occurred as a result of an intentional action, you may consider allowlisting the request to allow it in the future.": "Wordfence Firewall blocked a background request to WordPress for the URL %s. If this occurred as a result of an intentional action, you may consider allowlisting the request to allow it in the future.", "Wordfence is working...": "Wordfence is working...", "You are using Nginx as your web server. You'll need to disable autoindexing in your nginx.conf. See the <a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more info<\/a> on how to do this.": "You are using Nginx as your web server. You'll need to disable autoindexing in your nginx.conf. See the <a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more info<\/a> on how to do this.", "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually delete or hide those files.": "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually delete or hide those files.", "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually modify your php.ini to disable <em>display_error<\/em>": "You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually modify your php.ini to disable <em>display_error<\/em>", "You forgot to include a reason you're blocking this IP range. We ask you to include this for your own record keeping.": "You forgot to include a reason you're blocking this IP range. We ask you to include this for your own record keeping.", "You have unsaved changes to your options. If you leave this page, those changes will be lost.": "You have unsaved changes to your options. If you leave this page, those changes will be lost.", "Your .htaccess has been updated successfully. Please verify your site is functioning normally.": "Your .htaccess has been updated successfully. Please verify your site is functioning normally.", "Your Wordfence activity log was sent to %s": "Your Wordfence activity log was sent to %s", "Your rules have been updated successfully.": "Your rules have been updated successfully.", "Your rules have been updated successfully. You are currently using the free version of Wordfence. Upgrade to Wordfence premium to have your rules updated automatically as new threats emerge. <a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">Click here to purchase a premium license<\/a>. <em>Note: Your rules will still update every 30 days as a free user.<\/em>": "Your rules have been updated successfully. You are currently using the free version of Wordfence. Upgrade to Wordfence premium to have your rules updated automatically as new threats emerge. <a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">Click here to purchase a premium license<\/a>. <em>Note: Your rules will still update every 30 days as a free user.<\/em>", "Your test email was sent to the requested email address. The result we received from the WordPress wp_mail() function was: %s<br \/><br \/>A 'True' result means WordPress thinks the mail was sent without errors. A 'False' result means that WordPress encountered an error sending your mail. Note that it's possible to get a 'True' response with an error elsewhere in your mail system that may cause emails to not be delivered.": "Your test email was sent to the requested email address. The result we received from the WordPress wp_mail() function was: %s<br \/><br \/>A 'True' result means WordPress thinks the mail was sent without errors. A 'False' result means that WordPress encountered an error sending your mail. Note that it's possible to get a 'True' response with an error elsewhere in your mail system that may cause emails to not be delivered.", "blocked by firewall": "blocked by firewall", "blocked by firewall for %s": "blocked by firewall for %s", "blocked by real-time IP blocklist": "blocked by real-time IP blocklist", "blocked by the Wordfence Security Network": "blocked by the Wordfence Security Network", "blocked for %s": "blocked for %s", "locked out from logging in": "locked out from logging in" };
@@ -2097,15 +2098,15 @@
             }
     </style>
     <script>
-		(function () {
-               var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
+        (function () {
+            var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
 
-               request = true;
+            request = true;
 
-               b[c] = b[c].replace(rcs, ' ');
-               // The customizer requires postMessage and CORS (if the site is cross domain).
-               b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
-           }());
+            b[c] = b[c].replace(rcs, ' ');
+            // The customizer requires postMessage and CORS (if the site is cross domain).
+            b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
+        }());
     </script>
     <div id="wpadminbar" class="nojq nojs">
         <div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
@@ -2171,7 +2172,8 @@
                 <li id='wp-admin-bar-search' class="admin-bar-search">
                     <div class="ab-item ab-empty-item" tabindex="-1">
                         <form action="http://obdweb.co.za/JSEClear/" method="get" id="adminbarsearch">
-                            <input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form>
+                            <input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" />
+                        </form>
                     </div>
                 </li>
                 <li id='wp-admin-bar-my-account' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'>Howdy, <span class="display-name">obdadmin</span></a><div class="ab-sub-wrapper">
@@ -2200,16 +2202,19 @@
             <div class="l-subheader at_middle">
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left">
-                        <div class="w-image ush_image_1 with_transparent"><a href="/Default.aspx" aria-label="Link" class="w-image-h">
-                            <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a></div>
+                        <div class="w-image ush_image_1 with_transparent">
+                            <a href="/Default.aspx" aria-label="Link" class="w-image-h">
+                                <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a>
+                        </div>
                     </div>
                     <div class="l-subheader-cell at_center"></div>
                     <div class="l-subheader-cell at_right">
-                        <nav class="w-nav type_desktop ush_menu_1 height_full dropdown_height m_align_none m_layout_dropdown" itemscope itemtype="https://schema.org/SiteNavigationElement"><a class="w-nav-control" aria-label="Menu" href="#">
-                            <div class="w-nav-icon">
-                                <div></div>
-                            </div>
-                        </a>
+                        <nav class="w-nav type_desktop ush_menu_1 height_full dropdown_height m_align_none m_layout_dropdown" itemscope itemtype="https://schema.org/SiteNavigationElement">
+                            <a class="w-nav-control" aria-label="Menu" href="#">
+                                <div class="w-nav-icon">
+                                    <div></div>
+                                </div>
+                            </a>
                             <ul class="w-nav-list level_1 hide_for_mobiles hover_simple">
                                 <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home w-nav-item level_1 menu-item-229"><a class="w-nav-anchor level_1" href="/Default.aspx"><span class="w-nav-title">Services</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-47"><a class="w-nav-anchor level_1" href="/membership.aspx"><span class="w-nav-title">Membership</span><span class="w-nav-arrow"></span></a></li>
@@ -2459,27 +2464,33 @@
                                     <div class="w-grid-list">
                                         <article class="w-grid-item size_1x1 post-88 post type-post status-publish format-standard has-post-thumbnail hentry category-news" data-id="88">
                                             <div class="w-grid-item-h">
-                                                <a class="w-grid-item-anchor" href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" rel="bookmark" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"></a>
-                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
-                                                    <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></div>
+                                                <a class="w-grid-item-anchor" href="/latestNews1.aspx" rel="bookmark" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"></a>
+                                                <div class="w-post-elm post_image usg_post_image_1 stretched">
+                                                    <a href="/latestNews1.aspx" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
+                                                        <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                                                </div>
                                                 <div class="w-vwrapper usg_vwrapper_1 align_none valign_top">
                                                     <div class="w-hwrapper usg_hwrapper_1 align_none valign_top">
                                                         <div class="w-post-elm post_taxonomy usg_post_taxonomy_1 style_simple"><a class="term-1 term-news" href="http://obdweb.co.za/JSEClear/category/news/">News</a></div>
-                                                        <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T11:25:38+00:00" title="23 November 2022 at 11:25:38 +00:00">November 23, 2022</time></div>
-                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="http://obdweb.co.za/JSEClear/wfeclear-the-wfe-s-clearing-and-derivatives-conference-2023/">WFEClear: The WFE’s Clearing and Derivatives Conference 2023</a></h2>
+                                                        <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T11:25:38+00:00" title="23 November 2022 at 11:25:38 +00:00">November 23, 2022</time>
+                                                    </div>
+                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/latestNews1.aspx">WFEClear: The WFE’s Clearing and Derivatives Conference 2023</a></h2>
                                                 </div>
                                             </div>
                                         </article>
                                         <article class="w-grid-item size_1x1 post-64 post type-post status-publish format-standard has-post-thumbnail hentry category-news" data-id="64">
                                             <div class="w-grid-item-h">
-                                                <a class="w-grid-item-anchor" href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/" rel="bookmark" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"></a>
-                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
-                                                    <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></div>
+                                                <a class="w-grid-item-anchor" href="/latestNews2.aspx" rel="bookmark" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"></a>
+                                                <div class="w-post-elm post_image usg_post_image_1 stretched">
+                                                    <a href="/latestNews2.aspx" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
+                                                        <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                                                </div>
                                                 <div class="w-vwrapper usg_vwrapper_1 align_none valign_top">
                                                     <div class="w-hwrapper usg_hwrapper_1 align_none valign_top">
                                                         <div class="w-post-elm post_taxonomy usg_post_taxonomy_1 style_simple"><a class="term-1 term-news" href="http://obdweb.co.za/JSEClear/category/news/">News</a></div>
-                                                        <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T10:51:14+00:00" title="23 November 2022 at 10:51:14 +00:00">November 23, 2022</time></div>
-                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="http://obdweb.co.za/JSEClear/jse-clear-granted-independent-clearing-house-central-counterparty-licence/">JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</a></h2>
+                                                        <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T10:51:14+00:00" title="23 November 2022 at 10:51:14 +00:00">November 23, 2022</time>
+                                                    </div>
+                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/latestNews2.aspx">JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</a></h2>
                                                 </div>
                                             </div>
                                         </article>
@@ -2521,7 +2532,8 @@
                                     <div class="vc_column-inner">
                                         <div class="w-image align_none">
                                             <div class="w-image-h">
-                                                <img width="450" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png 450w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo-300x111.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></div>
+                                                <img width="450" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo.png 450w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/JSE-Footer-Logo-300x111.png 300w" sizes="(max-width: 450px) 100vw, 450px" />
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -2565,13 +2577,13 @@
                             <div class="w-separator size_custom" style="height: 5px"></div>
                             <div class="wpb_text_column us_custom_83a7a996">
                                 <div class="wpb_wrapper">
-                                    <p><a href="http://obdweb.co.za/JSEClear/disclaimer/">Disclaimer</a></p>
+                                    <p><a href="/disclaimer.aspx">Disclaimer</a></p>
                                 </div>
                             </div>
                             <div class="w-separator size_custom" style="height: 5px"></div>
                             <div class="wpb_text_column us_custom_83a7a996">
                                 <div class="wpb_wrapper">
-                                    <p><a href="http://obdweb.co.za/JSEClear/access-to-information/">Access to Information</a></p>
+                                    <p><a href="/accessToInfo.aspx">Access to Information</a></p>
                                 </div>
                             </div>
                         </div>
@@ -2667,36 +2679,36 @@
     <button id="w-header-show" class="w-header-show" aria-label="Menu"><span>Menu</span></button>
     <div class="w-header-overlay"></div>
     <script>
-		// Store some global theme options used in JS
-           if (window.$us === undefined) {
-               window.$us = {};
-           }
-           $us.canvasOptions = ($us.canvasOptions || {});
-           $us.canvasOptions.disableEffectsWidth = 900;
-           $us.canvasOptions.columnsStackingWidth = 600;
-           $us.canvasOptions.backToTopDisplay = 100;
-           $us.canvasOptions.scrollDuration = 1000;
+        // Store some global theme options used in JS
+        if (window.$us === undefined) {
+            window.$us = {};
+        }
+        $us.canvasOptions = ($us.canvasOptions || {});
+        $us.canvasOptions.disableEffectsWidth = 900;
+        $us.canvasOptions.columnsStackingWidth = 600;
+        $us.canvasOptions.backToTopDisplay = 100;
+        $us.canvasOptions.scrollDuration = 1000;
 
-           $us.langOptions = ($us.langOptions || {});
-           $us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
-           $us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
-           $us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
-           $us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
+        $us.langOptions = ($us.langOptions || {});
+        $us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
+        $us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
+        $us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
+        $us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
 
-           $us.navOptions = ($us.navOptions || {});
-           $us.navOptions.mobileWidth = 900;
-           $us.navOptions.togglable = true;
-           $us.ajaxLoadJs = true;
-           $us.templateDirectoryUri = 'http://obdweb.co.za/JSEClear/wp-content/themes/Impreza';
+        $us.navOptions = ($us.navOptions || {});
+        $us.navOptions.mobileWidth = 900;
+        $us.navOptions.togglable = true;
+        $us.ajaxLoadJs = true;
+        $us.templateDirectoryUri = 'http://obdweb.co.za/JSEClear/wp-content/themes/Impreza';
     </script>
     <script>if (window.$us === undefined) window.$us = {}; $us.headerSettings = { "default": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "100px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "none", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "laptops": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "1280px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "tablets": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "1024px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "mobiles": { "layout": { "hidden": [], "middle_left": ["image:1"], "middle_right": ["menu:1"], "top_right": ["btn:1", "btn:2", "btn:3"], "top_left": [] }, "options": { "custom_breakpoint": false, "breakpoint": "600px", "orientation": "hor", "sticky": true, "sticky_auto_hide": false, "scroll_breakpoint": "1px", "transparent": false, "width": "300px", "elm_align": "center", "shadow": "thin", "top_show": "", "top_height": "40px", "top_sticky_height": "40px", "top_fullwidth": false, "top_centering": false, "top_bg_color": "_header_top_bg", "top_text_color": "_header_top_text", "top_text_hover_color": "_header_top_text_hover", "top_transparent_bg_color": "_header_top_transparent_bg", "top_transparent_text_color": "_header_top_transparent_text", "top_transparent_text_hover_color": "_header_top_transparent_text_hover", "middle_height": "60px", "middle_sticky_height": "60px", "middle_fullwidth": false, "middle_centering": false, "elm_valign": "top", "bg_img": "", "bg_img_wrapper_start": "", "bg_img_size": "cover", "bg_img_repeat": "repeat", "bg_img_position": "top left", "bg_img_attachment": true, "bg_img_wrapper_end": "", "middle_bg_color": "_header_middle_bg", "middle_text_color": "_header_middle_text", "middle_text_hover_color": "_header_middle_text_hover", "middle_transparent_bg_color": "_header_transparent_bg", "middle_transparent_text_color": "_header_transparent_text", "middle_transparent_text_hover_color": "_header_transparent_text_hover", "bottom_show": false, "bottom_height": "50px", "bottom_sticky_height": "50px", "bottom_fullwidth": false, "bottom_centering": false, "bottom_bg_color": "_header_middle_bg", "bottom_text_color": "_header_middle_text", "bottom_text_hover_color": "_header_middle_text_hover", "bottom_transparent_bg_color": "_header_transparent_bg", "bottom_transparent_text_color": "_header_transparent_text", "bottom_transparent_text_hover_color": "_header_transparent_text_hover" } }, "header_id": "12" };</script>
     <script>
-			window.RS_MODULES = window.RS_MODULES || {};
-           window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-           window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-           window.RS_MODULES.defered = true;
-           window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-           window.RS_MODULES.type = 'compiled';
+        window.RS_MODULES = window.RS_MODULES || {};
+        window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+        window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+        window.RS_MODULES.defered = true;
+        window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+        window.RS_MODULES.type = 'compiled';
     </script>
     <link rel='stylesheet' id='rs-plugin-settings-css' href='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.31' media='all' />
     <style id='rs-plugin-settings-inline-css'>
@@ -2709,76 +2721,76 @@
     <script src='http://obdweb.co.za/JSEClear/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.31' defer async id='revmin-js'></script>
     <script src='http://obdweb.co.za/JSEClear/wp-content/themes/Impreza/js/us.core.min.js?ver=8.10' id='us-core-js'></script>
     <script>
-			function rs_adminBarToolBarTopFunction() {
-               if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
-                   var aliases = new Array();
-                   jQuery('rs-module-wrap').each(function () {
-                       aliases.push(jQuery(this).data('alias'));
-                   });
+        function rs_adminBarToolBarTopFunction() {
+            if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
+                var aliases = new Array();
+                jQuery('rs-module-wrap').each(function () {
+                    aliases.push(jQuery(this).data('alias'));
+                });
 
-                   if (aliases.length > 0) {
-                       jQuery('#wp-admin-bar-revslider-default li').each(function () {
-                           var li = jQuery(this),
-                               t = li.find('.ab-item .rs-label').data('alias'); //text()
-                           t = t !== undefined && t !== null ? t.trim() : t;
-                           if (jQuery.inArray(t, aliases) != -1) {
-                           } else {
-                               li.remove();
-                           }
-                       });
-                   }
-               } else {
-                   jQuery('#wp-admin-bar-revslider').remove();
-               }
-           }
-           var adminBarLoaded_once = false
-           if (document.readyState === "loading")
-               document.addEventListener('readystatechange', function () {
-                   if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
-                       adminBarLoaded_once = true;
-                       rs_adminBarToolBarTopFunction()
-                   }
-               });
-           else {
-               adminBarLoaded_once = true;
-               rs_adminBarToolBarTopFunction();
-           }
+                if (aliases.length > 0) {
+                    jQuery('#wp-admin-bar-revslider-default li').each(function () {
+                        var li = jQuery(this),
+                            t = li.find('.ab-item .rs-label').data('alias'); //text()
+                        t = t !== undefined && t !== null ? t.trim() : t;
+                        if (jQuery.inArray(t, aliases) != -1) {
+                        } else {
+                            li.remove();
+                        }
+                    });
+                }
+            } else {
+                jQuery('#wp-admin-bar-revslider').remove();
+            }
+        }
+        var adminBarLoaded_once = false
+        if (document.readyState === "loading")
+            document.addEventListener('readystatechange', function () {
+                if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
+                    adminBarLoaded_once = true;
+                    rs_adminBarToolBarTopFunction()
+                }
+            });
+        else {
+            adminBarLoaded_once = true;
+            rs_adminBarToolBarTopFunction();
+        }
     </script>
     <script>
-			function rs_adminBarToolBarTopFunction() {
-               if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
-                   var aliases = new Array();
-                   jQuery('rs-module-wrap').each(function () {
-                       aliases.push(jQuery(this).data('alias'));
-                   });
+        function rs_adminBarToolBarTopFunction() {
+            if (jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0) {
+                var aliases = new Array();
+                jQuery('rs-module-wrap').each(function () {
+                    aliases.push(jQuery(this).data('alias'));
+                });
 
-                   if (aliases.length > 0) {
-                       jQuery('#wp-admin-bar-revslider-default li').each(function () {
-                           var li = jQuery(this),
-                               t = li.find('.ab-item .rs-label').data('alias'); //text()
-                           t = t !== undefined && t !== null ? t.trim() : t;
-                           if (jQuery.inArray(t, aliases) != -1) {
-                           } else {
-                               li.remove();
-                           }
-                       });
-                   }
-               } else {
-                   jQuery('#wp-admin-bar-revslider').remove();
-               }
-           }
-           var adminBarLoaded_once = false
-           if (document.readyState === "loading")
-               document.addEventListener('readystatechange', function () {
-                   if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
-                       adminBarLoaded_once = true;
-                       rs_adminBarToolBarTopFunction()
-                   }
-               });
-           else {
-               adminBarLoaded_once = true;
-               rs_adminBarToolBarTopFunction();
-           }
+                if (aliases.length > 0) {
+                    jQuery('#wp-admin-bar-revslider-default li').each(function () {
+                        var li = jQuery(this),
+                            t = li.find('.ab-item .rs-label').data('alias'); //text()
+                        t = t !== undefined && t !== null ? t.trim() : t;
+                        if (jQuery.inArray(t, aliases) != -1) {
+                        } else {
+                            li.remove();
+                        }
+                    });
+                }
+            } else {
+                jQuery('#wp-admin-bar-revslider').remove();
+            }
+        }
+        var adminBarLoaded_once = false
+        if (document.readyState === "loading")
+            document.addEventListener('readystatechange', function () {
+                if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
+                    adminBarLoaded_once = true;
+                    rs_adminBarToolBarTopFunction()
+                }
+            });
+        else {
+            adminBarLoaded_once = true;
+            rs_adminBarToolBarTopFunction();
+        }
     </script>
 </body>
 </html>

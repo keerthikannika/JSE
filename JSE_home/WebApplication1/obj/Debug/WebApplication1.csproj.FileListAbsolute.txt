@@ -141,6 +141,7 @@ D:\jse clone\JSE\JSE_home\WebApplication1\bin\Newtonsoft.Json.xml
 D:\jse clone\JSE\JSE_home\WebApplication1\bin\Antlr3.Runtime.pdb
 D:\jse clone\JSE\JSE_home\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
 D:\jse clone\JSE\JSE_home\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\jse clone\JSE\JSE_home\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
 D:\jse clone\JSE\JSE_home\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 D:\jse clone\JSE\JSE_home\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\jse clone\JSE\JSE_home\WebApplication1\obj\Debug\WebApplication1.dll
