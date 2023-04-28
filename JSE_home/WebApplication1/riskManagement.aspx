@@ -84,7 +84,7 @@
     </style>
     <style media="screen">
         html {
-            margin-top: 32px !important;
+            
         }
 
         @media screen and ( max-width: 782px ) {
@@ -2104,87 +2104,7 @@
                b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
            }());
     </script>
-    <div id="wpadminbar" class="nojq nojs">
-        <div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
-            <ul id='wp-admin-bar-root-default' class="ab-top-menu">
-                <li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-wp-logo-default' class="ab-submenu">
-                        <li id='wp-admin-bar-about'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/about.php'>About WordPress</a></li>
-                    </ul>
-                    <ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu">
-                        <li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li>
-                        <li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li>
-                        <li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li>
-                        <li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/'>JSE Clear</a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-site-name-default' class="ab-submenu">
-                        <li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/'>Dashboard</a></li>
-                        <li id='wp-admin-bar-us_theme_otions'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/admin.php?page=us-theme-options'>Theme Options</a></li>
-                    </ul>
-                    <ul id='wp-admin-bar-appearance' class="ab-submenu">
-                        <li id='wp-admin-bar-themes'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/themes.php'>Themes</a></li>
-                        <li id='wp-admin-bar-widgets'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/widgets.php'>Widgets</a></li>
-                        <li id='wp-admin-bar-menus'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/nav-menus.php'>Menus</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/customize.php?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Frisk-management%2F'>Customize</a></li>
-                <li id='wp-admin-bar-updates'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">1 update available</span></a></li>
-                <li id='wp-admin-bar-comments'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li>
-                <li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-new-content-default' class="ab-submenu">
-                        <li id='wp-admin-bar-new-post'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php'>Post</a></li>
-                        <li id='wp-admin-bar-new-media'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/media-new.php'>Media</a></li>
-                        <li id='wp-admin-bar-new-page'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=page'>Page</a></li>
-                        <li id='wp-admin-bar-new-us_portfolio'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=us_portfolio'>Portfolio Page</a></li>
-                        <li id='wp-admin-bar-new-us_testimonial'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post-new.php?post_type=us_testimonial'>Testimonial</a></li>
-                        <li id='wp-admin-bar-new-user'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/user-new.php'>User</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-edit' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/post.php?post=24&#038;action=edit'>Edit Page</a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-edit-default' class="ab-submenu">
-                        <li id='wp-admin-bar-us-header' class="us-admin-bar">
-                            <div class="ab-item ab-empty-item" onclick='return false'>Header</div>
-                            <a href="http://obdweb.co.za/JSEClear/wp-admin/post.php?post=12&action=edit">SITE HEADER</a></li>
-                        <li id='wp-admin-bar-us-footer' class="us-admin-bar">
-                            <div class="ab-item ab-empty-item" onclick='return false'>Footer</div>
-                            <a href="http://obdweb.co.za/JSEClear/wp-admin/post.php?post=15&action=edit">SITE FOOTER</a></li>
-                    </ul>
-                </div>
-                </li>
-                <li id='wp-admin-bar-edit_us_builder' class="us-builder"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/post.php?post=24&#038;action=us-builder'>Edit Live</a><style>
-                                                                                                                                                                                                  .us-builder > a {
-                                                                                                                                                                                                      font-weight: 600 !important;
-                                                                                                                                                                                                      color: #23ccaa !important
-                                                                                                                                                                                                  }
-                                                                                                                                                                                              </style></li>
-                <li id='wp-admin-bar-revslider' class="revslider-menu"><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/admin.php?page=revslider'><span class="rs-label">Slider Revolution</span></a></li>
-            </ul>
-            <ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu">
-                <li id='wp-admin-bar-search' class="admin-bar-search">
-                    <div class="ab-item ab-empty-item" tabindex="-1">
-                        <form action="http://obdweb.co.za/JSEClear/" method="get" id="adminbarsearch">
-                            <input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form>
-                    </div>
-                </li>
-                <li id='wp-admin-bar-my-account' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'>Howdy, <span class="display-name">obdadmin</span></a><div class="ab-sub-wrapper">
-                    <ul id='wp-admin-bar-user-actions' class="ab-submenu">
-                        <li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'><span class='display-name'>obdadmin</span></a></li>
-                        <li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-admin/profile.php'>Edit Profile</a></li>
-                        <li id='wp-admin-bar-logout'><a class='ab-item' href='http://obdweb.co.za/JSEClear/wp-login.php?action=logout&#038;_wpnonce=19b46759e6'>Log Out</a></li>
-                    </ul>
-                </div>
-                </li>
-            </ul>
-        </div>
-        <a class="screen-reader-shortcut" href="http://obdweb.co.za/JSEClear/wp-login.php?action=logout&#038;_wpnonce=19b46759e6">Log Out</a>
-    </div>
-
-
+   
     <div class="l-canvas type_wide">
         <header id="page-header" class="l-header pos_fixed shadow_none bg_solid id_12" itemscope itemtype="https://schema.org/WPHeader">
             <div class="l-subheader at_top">
