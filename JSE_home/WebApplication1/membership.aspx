@@ -2193,7 +2193,7 @@
                                                             <li>A subsidiary of a bank or foreign bank (the latter of which must be established in a jurisdiction that adheres to the Basel requirements)</li>
                                                             <li>An exchange member</li>
                                                         </ol>
-                                                        <p style="text-align: justify;">Further details regarding the requirements to become a Clearing Member of JSE Clear can be found in section 3 of the <a href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/208-JSEClearRules17052021-FINAL_SecCol-Removed.pdf" target="_blank" rel="noopener"><strong>JSE Clear Rules</strong></a>.</p>
+                                                        <p style="text-align: justify;">Further details regarding the requirements to become a Clearing Member of JSE Clear can be found in section 3 of the <a href="/Pdf/208-JSEClearRules17052021-FINAL_SecCol-Removed.pdf" target="_blank" rel="noopener"><strong>JSE Clear Rules</strong></a>.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2347,7 +2347,7 @@
                                                         </ol>
                                                         <p style="text-align: justify;">
                                                             Enquiries regarding membership for JSE Clear can be directed to <strong><a href="mailto:jsec_membership@jse.co.za">jsec_membership@jse.co.za</a></strong><br />
-                                                            A copy of the JSE Clear Membership Application Form can be found <a href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-CM-Application-Form_July-21_vFinal.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
+                                                            A copy of the JSE Clear Membership Application Form can be found <a href="/Pdf/JSE-Clear-CM-Application-Form_July-21_vFinal.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -2370,7 +2370,7 @@
                                             <div class="section">
                                                 <div class="layoutArea">
                                                     <div class="column">
-                                                        <p style="text-align: justify;">A copy of the JSE Clear Rule book can be found <a href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/208-JSEClearRules17052021-FINAL_SecCol-Removed.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.</p>
+                                                        <p style="text-align: justify;">A copy of the JSE Clear Rule book can be found <a href="/Pdf/208-JSEClearRules17052021-FINAL_SecCol-Removed (1).pdf" target="_blank" rel="noopener"><strong>here</strong></a>.</p>
                                                     </div>
                                                 </div>
                                             </div>

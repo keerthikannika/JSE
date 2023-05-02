@@ -2284,13 +2284,13 @@
                                     </div>
                                     <div class="wpb_column vc_column_container">
                                         <div class="vc_column-inner">
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-Initial-Margin-Policy-October-2021.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Initial Margin Policy</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="/Pdf/JSE-Clear-Initial-Margin-Policy-October-2021.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Initial Margin Policy</span></a></div>
                                             <div class="w-separator size_custom" style="height: 10px"></div>
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSPAN-Technical-Specification.pdf" rel="noopener"><span class="w-btn-label">Derivative Market Technical Specifications</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="/Pdf/JSPAN-Technical-Specification.pdf" rel="noopener"><span class="w-btn-label">Derivative Market Technical Specifications</span></a></div>
                                             <div class="w-separator size_custom" style="height: 10px"></div>
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-Initial-Margin-Methodology-October-2021.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Margin Methodology for the Derivative Market</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="/Pdf/JSE-Clear-Initial-Margin-Methodology-October-2021.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Margin Methodology for the Derivative Market</span></a></div>
                                             <div class="w-separator size_custom" style="height: 10px"></div>
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/Portfolio-VaR-Implementation-for-Interest-Rate-Derivatives.pdf" rel="noopener"><span class="w-btn-label">Portfolio VaR Implementation for Interest Rate Derivatives</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="/Pdf/Portfolio-VaR-Implementation-for-Interest-Rate-Derivatives.pdf" rel="noopener"><span class="w-btn-label">Portfolio VaR Implementation for Interest Rate Derivatives</span></a></div>
                                         </div>
                                     </div>
                                 </div>
