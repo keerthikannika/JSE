@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="latestNews2.aspx.cs" Inherits="WebApplication1.latestNews2" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="newsCounterparty.aspx.cs" Inherits="WebApplication1.latestNews2" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -69,7 +69,7 @@
                                         <div class="vc_column-inner">
                                             <div class="w-post-elm post_navigation layout_simple inv_false">
                                                 <div class="post_navigation-item order_first to_prev"></div>
-                                                <a class="post_navigation-item order_second to_next" href="/latestNews1.aspx" title="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
+                                                <a class="post_navigation-item order_second to_next" href="/newsConference.aspx" title="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
                                                     <div class="post_navigation-item-arrow"></div>
                                                     <div class="post_navigation-item-meta">Next Article</div>
                                                     <div class="post_navigation-item-title"><span>WFEClear: The WFE’s Clearing and Derivatives Conference 2023</span></div>

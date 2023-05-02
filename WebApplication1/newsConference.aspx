@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="latestNews1.aspx.cs" Inherits="WebApplication1.latestNews1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="newsConference.aspx.cs" Inherits="WebApplication1.latestNews1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -167,7 +167,7 @@
                                     <div class="wpb_column vc_column_container">
                                         <div class="vc_column-inner">
                                             <div class="w-post-elm post_navigation layout_simple inv_false">
-                                                <a class="post_navigation-item order_first to_prev" href="/latestNews2.aspx" title="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
+                                                <a class="post_navigation-item order_first to_prev" href="/newsCounterparty.aspx" title="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
                                                     <div class="post_navigation-item-arrow"></div>
                                                     <div class="post_navigation-item-meta">Previous Article</div>
                                                     <div class="post_navigation-item-title"><span>JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</span></div>

@@ -272,7 +272,7 @@
                         <div class="w-grid-item-h">
                           <a
                             class="w-grid-item-anchor"
-                            href="/latestNews1.aspx"
+                            href="/newsConference.aspx"
                             rel="bookmark"
                             aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"
                           ></a>
@@ -280,7 +280,7 @@
                             class="w-post-elm post_image usg_post_image_1 stretched"
                           >
                             <a
-                              href="/latestNews1.aspx"
+                              href="/newsConference.aspx"
                               aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"
                               ><img
                                 width="1200"
@@ -324,7 +324,7 @@
                               class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"
                             >
                               <a
-                                href="/latestNews1.aspx"
+                                href="/newsConference.aspx"
                                 >WFEClear: The WFE’s Clearing and Derivatives
                                 Conference 2023</a
                               >
@@ -339,7 +339,7 @@
                         <div class="w-grid-item-h">
                           <a
                             class="w-grid-item-anchor"
-                            href="/latestNews2.aspx"
+                            href="/newsCounterparty.aspx"
                             rel="bookmark"
                             aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"
                           ></a>
@@ -347,7 +347,7 @@
                             class="w-post-elm post_image usg_post_image_1 stretched"
                           >
                             <a
-                              href="/latestNews2.aspx"
+                              href="/newsCounterparty.aspx"
                               aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"
                               ><img
                                 width="1200"
@@ -391,7 +391,7 @@
                               class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"
                             >
                               <a
-                                href="/latestNews2.aspx"
+                                href="/newsCounterparty.aspx"
                                 >JSE Clear granted Independent Clearing House
                                 &#038; Central Counterparty licence</a
                               >

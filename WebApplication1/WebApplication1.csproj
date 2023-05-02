@@ -100,8 +100,8 @@
     <Content Include="collateralManagement.aspx" />
     <Content Include="Disclaimer.aspx" />
     <Content Include="Documents.aspx" />
-    <Content Include="latestNews1.aspx" />
-    <Content Include="latestNews2.aspx" />
+    <Content Include="newsConference.aspx" />
+    <Content Include="newsCounterparty.aspx" />
     <Content Include="News.aspx" />
     <Content Include="operationManagement.aspx" />
     <Content Include="packages.config" />
@@ -144,6 +144,7 @@
     </Compile>
     <Compile Include="collateralManagement.aspx.cs">
       <DependentUpon>collateralManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="collateralManagement.aspx.designer.cs">
       <DependentUpon>collateralManagement.aspx</DependentUpon>
@@ -162,19 +163,19 @@
     <Compile Include="Documents.aspx.designer.cs">
       <DependentUpon>Documents.aspx</DependentUpon>
     </Compile>
-    <Compile Include="latestNews1.aspx.cs">
-      <DependentUpon>latestNews1.aspx</DependentUpon>
+    <Compile Include="newsConference.aspx.cs">
+      <DependentUpon>newsConference.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="latestNews1.aspx.designer.cs">
-      <DependentUpon>latestNews1.aspx</DependentUpon>
+    <Compile Include="newsConference.aspx.designer.cs">
+      <DependentUpon>newsConference.aspx</DependentUpon>
     </Compile>
-    <Compile Include="latestNews2.aspx.cs">
-      <DependentUpon>latestNews2.aspx</DependentUpon>
+    <Compile Include="newsCounterparty.aspx.cs">
+      <DependentUpon>newsCounterparty.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="latestNews2.aspx.designer.cs">
-      <DependentUpon>latestNews2.aspx</DependentUpon>
+    <Compile Include="newsCounterparty.aspx.designer.cs">
+      <DependentUpon>newsCounterparty.aspx</DependentUpon>
     </Compile>
     <Compile Include="membership.aspx.cs">
       <DependentUpon>membership.aspx</DependentUpon>

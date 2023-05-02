@@ -1448,27 +1448,27 @@
                                     <div class="w-grid-list">
                                         <article class="w-grid-item size_1x1 post-88 post type-post status-publish format-standard has-post-thumbnail hentry category-news" data-id="88">
                                             <div class="w-grid-item-h">
-                                                <a class="w-grid-item-anchor" href="/latestNews1.aspx" rel="bookmark" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"></a>
-                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="/latestNews1.aspx" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
+                                                <a class="w-grid-item-anchor" href="/newsConference.aspx" rel="bookmark" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023"></a>
+                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="/newsConference.aspx" aria-label="WFEClear: The WFE’s Clearing and Derivatives Conference 2023">
                                                     <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-1-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></div>
                                                 <div class="w-vwrapper usg_vwrapper_1 align_none valign_top">
                                                     <div class="w-hwrapper usg_hwrapper_1 align_none valign_top">
                                                         <div class="w-post-elm post_taxonomy usg_post_taxonomy_1 style_simple"><a class="term-1 term-news" href="http://obdweb.co.za/JSEClear/category/news/">News</a></div>
                                                         <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T11:25:38+00:00" title="23 November 2022 at 11:25:38 +00:00">November 23, 2022</time></div>
-                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/latestNews1.aspx">WFEClear: The WFE’s Clearing and Derivatives Conference 2023</a></h2>
+                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/newsConference.aspx">WFEClear: The WFE’s Clearing and Derivatives Conference 2023</a></h2>
                                                 </div>
                                             </div>
                                         </article>
                                         <article class="w-grid-item size_1x1 post-64 post type-post status-publish format-standard has-post-thumbnail hentry category-news" data-id="64">
                                             <div class="w-grid-item-h">
-                                                <a class="w-grid-item-anchor" href="/latestNews2.aspx" rel="bookmark" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"></a>
-                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="/latestNews2.aspx" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
+                                                <a class="w-grid-item-anchor" href="/newsCounterparty.aspx" rel="bookmark" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence"></a>
+                                                <div class="w-post-elm post_image usg_post_image_1 stretched"><a href="/newsCounterparty.aspx" aria-label="JSE Clear granted Independent Clearing House &#038; Central Counterparty licence">
                                                     <img width="1200" height="600" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4.jpg 1200w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-300x150.jpg 300w, http://obdweb.co.za/JSEClear/wp-content/uploads/2022/11/test-tab-4-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></div>
                                                 <div class="w-vwrapper usg_vwrapper_1 align_none valign_top">
                                                     <div class="w-hwrapper usg_hwrapper_1 align_none valign_top">
                                                         <div class="w-post-elm post_taxonomy usg_post_taxonomy_1 style_simple"><a class="term-1 term-news" href="http://obdweb.co.za/JSEClear/category/news/">News</a></div>
                                                         <time class="w-post-elm post_date usg_post_date_1 entry-date published" datetime="2022-11-23T10:51:14+00:00" title="23 November 2022 at 10:51:14 +00:00">November 23, 2022</time></div>
-                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/latestNews2.aspx">JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</a></h2>
+                                                    <h2 class="w-post-elm post_title usg_post_title_1 entry-title color_link_inherit"><a href="/newsCounterparty.aspx">JSE Clear granted Independent Clearing House &#038; Central Counterparty licence</a></h2>
                                                 </div>
                                             </div>
                                         </article>

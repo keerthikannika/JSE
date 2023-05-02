@@ -24,7 +24,7 @@
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="theme-color" content="#f5f5f5">
     <meta property="og:title" content="Membership &#8211; JSE Clear">
-    <meta property="og:url" content="http://obdweb.co.za/JSEClear/JSEClear/membership/">
+    <meta property="og:url" content="/membership.aspx">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="JSE Clear">
     <meta property="og:type" content="website">
@@ -75,7 +75,7 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://obdweb.co.za/JSEClear/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://obdweb.co.za/JSEClear/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.2" />
-    <link rel="canonical" href="http://obdweb.co.za/JSEClear/membership/" />
+    <link rel="canonical" href="/membership.aspx" />
     <link rel='shortlink' href='http://obdweb.co.za/JSEClear/?p=20' />
     <link rel="alternate" type="application/json+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fmembership%2F" />
     <link rel="alternate" type="text/xml+oembed" href="http://obdweb.co.za/JSEClear/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fobdweb.co.za%2FJSEClear%2Fmembership%2F&#038;format=xml" />
@@ -2121,13 +2121,13 @@
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left"></div>
                     <div class="l-subheader-cell at_center"></div>
-                    <div class="l-subheader-cell at_right"><a class="w-btn us-btn-style_1 ush_btn_1" href="/resources.aspx"><span class="w-btn-label">Resources</span></a><a class="w-btn us-btn-style_1 ush_btn_2" href="http://obdweb.co.za/JSEClear/documents/"><span class="w-btn-label">Documents</span></a><a class="w-btn us-btn-style_1 ush_btn_3" href="http://obdweb.co.za/JSEClear/news/"><span class="w-btn-label">News</span></a></div>
+                    <div class="l-subheader-cell at_right"><a class="w-btn us-btn-style_1 ush_btn_1" href="/resources.aspx"><span class="w-btn-label">Resources</span></a><a class="w-btn us-btn-style_1 ush_btn_2" href="/Documents.aspx"><span class="w-btn-label">Documents</span></a><a class="w-btn us-btn-style_1 ush_btn_3" href="/News.aspx"><span class="w-btn-label">News</span></a></div>
                 </div>
             </div>
             <div class="l-subheader at_middle">
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left">
-                        <div class="w-image ush_image_1 with_transparent"><a href="/Default.aspx" aria-label="Link" class="w-image-h">
+                        <div class="w-image ush_image_1 with_transparent"><a href="/Services.aspx" aria-label="Link" class="w-image-h">
                             <img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /><img width="616" height="166" src="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white.png 616w, http://obdweb.co.za/JSEClear/wp-content/uploads/2023/03/jse-clear-logo-white-300x81.png 300w" sizes="(max-width: 616px) 100vw, 616px" /></a></div>
                     </div>
                     <div class="l-subheader-cell at_center"></div>
