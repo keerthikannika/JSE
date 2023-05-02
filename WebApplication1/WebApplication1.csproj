@@ -99,8 +99,10 @@
     <Content Include="accessToInfo.aspx" />
     <Content Include="collateralManagement.aspx" />
     <Content Include="Disclaimer.aspx" />
+    <Content Include="Documents.aspx" />
     <Content Include="latestNews1.aspx" />
     <Content Include="latestNews2.aspx" />
+    <Content Include="News.aspx" />
     <Content Include="operationManagement.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -153,6 +155,13 @@
     <Compile Include="Disclaimer.aspx.designer.cs">
       <DependentUpon>Disclaimer.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Documents.aspx.cs">
+      <DependentUpon>Documents.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Documents.aspx.designer.cs">
+      <DependentUpon>Documents.aspx</DependentUpon>
+    </Compile>
     <Compile Include="latestNews1.aspx.cs">
       <DependentUpon>latestNews1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -173,6 +182,13 @@
     </Compile>
     <Compile Include="membership.aspx.designer.cs">
       <DependentUpon>membership.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="News.aspx.cs">
+      <DependentUpon>News.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="News.aspx.designer.cs">
+      <DependentUpon>News.aspx</DependentUpon>
     </Compile>
     <Compile Include="operationManagement.aspx.cs">
       <DependentUpon>operationManagement.aspx</DependentUpon>
