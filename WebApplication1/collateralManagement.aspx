@@ -67,17 +67,17 @@
                                 <div class="g-cols wpb_row via_grid cols_3 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default stacking_default">
                                     <div class="wpb_column vc_column_container">
                                         <div class="vc_column-inner">
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1 us_custom_129f8dd1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-Collateral-Policy-June-2022.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Collateral Policy</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1 us_custom_129f8dd1" target="_blank" href="/pdf/Jse Pdf/Collateral Management/JSE-Clear-Collateral-Policy-June-2022.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Collateral Policy</span></a></div>
                                         </div>
                                     </div>
                                     <div class="wpb_column vc_column_container">
                                         <div class="vc_column-inner">
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-Collateral-Risk-Management-Framework_Clean_22.06.24_vFinal.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Collateral Risk Management Framework</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1" target="_blank" href="/pdf/Jse Pdf/Collateral Management/JSE-Clear-Collateral-Risk-Management-Framework_Clean_22.06.24_vFinal.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Collateral Risk Management Framework</span></a></div>
                                         </div>
                                     </div>
                                     <div class="wpb_column vc_column_container">
                                         <div class="vc_column-inner">
-                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1 us_custom_129f8dd1" target="_blank" href="http://obdweb.co.za/JSEClear/wp-content/uploads/2023/02/JSE-Clear-Investment-Mandate-IM-and-DF-June-2022.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Investment Mandate</span></a></div>
+                                            <div class="w-btn-wrapper width_full"><a class="w-btn us-btn-style_1 us_custom_129f8dd1" target="_blank" href="/pdf/Jse Pdf/Collateral Management/JSE-Clear-Investment-Mandate-IM-and-DF-June-2022.pdf" rel="noopener"><span class="w-btn-label">JSE Clear Investment Mandate</span></a></div>
                                         </div>
                                     </div>
                                 </div>
