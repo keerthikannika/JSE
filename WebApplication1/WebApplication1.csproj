@@ -95,11 +95,20 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.aspx" />
+    <Content Include="accessToInfo.aspx" />
+    <Content Include="collateralManagement.aspx" />
+    <Content Include="Disclaimer.aspx" />
+    <Content Include="latestNews1.aspx" />
+    <Content Include="latestNews2.aspx" />
     <Content Include="operationManagement.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="privacyPolicy.aspx" />
+    <Content Include="resources.aspx" />
+    <Content Include="riskManagement.aspx" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -109,19 +118,61 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Membership.aspx" />
+    <Content Include="membership.aspx" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Services.aspx" />
+    <Content Include="termsAndConditions.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Membership.aspx.cs">
-      <DependentUpon>Membership.aspx</DependentUpon>
+    <Compile Include="about.aspx.cs">
+      <DependentUpon>about.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Membership.aspx.designer.cs">
-      <DependentUpon>Membership.aspx</DependentUpon>
+    <Compile Include="about.aspx.designer.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="accessToInfo.aspx.cs">
+      <DependentUpon>accessToInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="accessToInfo.aspx.designer.cs">
+      <DependentUpon>accessToInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="collateralManagement.aspx.cs">
+      <DependentUpon>collateralManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="collateralManagement.aspx.designer.cs">
+      <DependentUpon>collateralManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Disclaimer.aspx.cs">
+      <DependentUpon>Disclaimer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Disclaimer.aspx.designer.cs">
+      <DependentUpon>Disclaimer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="latestNews1.aspx.cs">
+      <DependentUpon>latestNews1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="latestNews1.aspx.designer.cs">
+      <DependentUpon>latestNews1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="latestNews2.aspx.cs">
+      <DependentUpon>latestNews2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="latestNews2.aspx.designer.cs">
+      <DependentUpon>latestNews2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="membership.aspx.cs">
+      <DependentUpon>membership.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="membership.aspx.designer.cs">
+      <DependentUpon>membership.aspx</DependentUpon>
     </Compile>
     <Compile Include="operationManagement.aspx.cs">
       <DependentUpon>operationManagement.aspx</DependentUpon>
@@ -130,7 +181,28 @@
     <Compile Include="operationManagement.aspx.designer.cs">
       <DependentUpon>operationManagement.aspx</DependentUpon>
     </Compile>
+    <Compile Include="privacyPolicy.aspx.cs">
+      <DependentUpon>privacyPolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="privacyPolicy.aspx.designer.cs">
+      <DependentUpon>privacyPolicy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="resources.aspx.cs">
+      <DependentUpon>resources.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="resources.aspx.designer.cs">
+      <DependentUpon>resources.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="riskManagement.aspx.cs">
+      <DependentUpon>riskManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="riskManagement.aspx.designer.cs">
+      <DependentUpon>riskManagement.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Services.aspx.cs">
       <DependentUpon>Services.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -144,6 +216,13 @@
     </Compile>
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="termsAndConditions.aspx.cs">
+      <DependentUpon>termsAndConditions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="termsAndConditions.aspx.designer.cs">
+      <DependentUpon>termsAndConditions.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <PropertyGroup>

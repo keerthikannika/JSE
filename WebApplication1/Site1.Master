@@ -98,7 +98,7 @@
 
         @media screen and ( max-width: 782px ) {
             html {
-                margin-top: 46px !important;
+                
             }
         }
     </style>
@@ -2143,7 +2143,7 @@
                                 <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-48"><a class="w-nav-anchor level_1" href="/operationManagement.aspx"><span class="w-nav-title">Operations Management</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-51"><a class="w-nav-anchor level_1" href="/riskManagement.aspx"><span class="w-nav-title">Risk Management</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-45"><a class="w-nav-anchor level_1" href="/collateralManagement.aspx"><span class="w-nav-title">Collateral Management</span><span class="w-nav-arrow"></span></a></li>
-                                <li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-245"><a class="w-nav-anchor level_1" href="s/resources.aspx"><span class="w-nav-title">Resources</span><span class="w-nav-arrow"></span></a></li>
+                                <li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-245"><a class="w-nav-anchor level_1" href="/resources.aspx"><span class="w-nav-title">Resources</span><span class="w-nav-arrow"></span></a></li>
                                 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-43"><a class="w-nav-anchor level_1" href="/about.aspx"><span class="w-nav-title">About Us</span><span class="w-nav-arrow"></span></a></li>
                                 <li class="w-nav-close"></li>
                             </ul>
